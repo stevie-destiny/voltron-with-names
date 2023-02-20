@@ -6828,21 +6828,29 @@ Austringer,Triple Tap,Demolitionist,Austringer,Corkscrew Rifling,Armor-Piercing 
 // Any barrel, (Tactical Mag, Appended Mag), (Threat Detector Enhanced, Threat Detector), (Incandescent Enhanced, Incandescent)
 //notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE first-choice roll for end-game content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. If you're building your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Threat Detector helps with gun feel in CQC, and Incandescent synergises really well with Solar 3.0 builds. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 CALUS Mini-Tool,Tactical Mag,Threat Detector,Incandescent,
+CALUS Mini-Tool,Appended Mag,Threat Detector,Incandescent,
 
 // CALUS Mini-Tool (PvE first choice roll)
 // Any barrel, (Tactical Mag, Appended Mag), (Threat Detector Enhanced, Threat Detector), (Surrounded Enhanced, Surrounded)
 //notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE first-choice roll for end-game content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. If you're building your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Threat Detector helps with gun feel in CQC, and Surrounded with a Surrounded Spec mod gives a huge boost to damage. Recommended MW: Stability, with a Surrounded Spec mod.|tags:pve
 CALUS Mini-Tool,Tactical Mag,Threat Detector,Surrounded,
+CALUS Mini-Tool,Appended Mag,Threat Detector,Surrounded,
 
 // CALUS Mini-Tool (PvE backup roll)
 // Any barrel, (Tactical Mag, Appended Mag), (Unrelenting Enhanced, Unrelenting, Grave Robber Enhanced, Grace Robber), (Incandescent Enhanced, Incandescent)
 //notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE backup roll for general content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. While you're waiting to your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Unrelenting helps keep you in a fight or Grave Robber helps with keeping you reloaded, and Incandescent synergises really well with Solar 3.0. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 CALUS Mini-Tool,Tactical Mag,Unrelenting,Incandescent,
+CALUS Mini-Tool,Appended Mag,Unrelenting,Incandescent,
+CALUS Mini-Tool,Tactical Mag,Grave Robber,Incandescent,
+CALUS Mini-Tool,Appended Mag,Grave Robber,Incandescent,
 
 // CALUS Mini-Tool (PvE backup roll)
 // Any barrel, (Tactical Mag, Appended Mag), (Unrelenting Enhanced, Unrelenting, Grave Robber Enhanced, Grace Robber), (Surrounded Enhanced, Surrounded)
 //notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE backup roll for general content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. While you're waiting to build your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Unrelenting helps keep you in a fight or Grave Robber helps with keeping you reloaded, and Surrounded with a Surrounded Spec mod gives a huge boost to damage. Recommended MW: Stability, with a Surrounded Spec mod.|tags:pve
 CALUS Mini-Tool,Tactical Mag,Unrelenting,Surrounded,
+CALUS Mini-Tool,Appended Mag,Unrelenting,Surrounded,
+CALUS Mini-Tool,Tactical Mag,Grave Robber,Surrounded,
+CALUS Mini-Tool,Appended Mag,Grave Robber,Surrounded,
 
 // Drang (Baroque) (PvE first choice roll)
 // Hammer-Forged Rifling, Accurized Rounds, (Disruption Break Enhanced, Disruption Break, Wellspring Enhanced, Wellspring, Well-Rounded Enhanced, Well-Rounded), (Incandescent Enhanced, Incandescent)
@@ -7820,11 +7828,17 @@ The Wizened Rebuke,Well-Rounded,Vorpal Weapon,The Wizened Rebuke,Arrowhead Brake
 // Any barrel, (Appended Mag, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Feeding Frenzy, Kill Clip
 //notes:Inspired by DMB Player Versus Enemies Podcast 20. PvE backup roll for general add clear - weird 900rpm adaptive subtype and the Season 17 reprised version has very PvP orientated traits, so there are probably better void SMGs to choose from. Unfortunately, you'll get no use from the Iron Banner-based origin trait. If you're keeping one, your choice of barrels and then a mag that adds extra bullets or a combat effect first, and then Feeding Frenzy and Kill Clip is a reliable synergy. Recommended MW: your choice, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags: pve, pve-minor, controller
 The Hero's Burden,Appended Mag,Feeding Frenzy,Kill Clip,
+The Hero's Burden,Armor-Piercing Rounds,Feeding Frenzy,Kill Clip,
+The Hero's Burden,High-Caliber Rounds,Feeding Frenzy,Kill Clip,
+The Hero's Burden,Ricochet Rounds,Feeding Frenzy,Kill Clip,
 
 // The Hero's Burden (PvE backup roll)
 // Any barrel, (Appended Mag, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Feeding Frenzy, Repulsor Brace
 //notes:Inspired by DMB Player Versus Enemies Podcast 20. PvE backup roll for general add clear for Void subclasses - weird 900rpm adaptive subtype and the Season 17 reprised version has very PvP orientated traits, so there are probably better void SMGs to choose from. Unfortunately, you'll get no use from the Iron Banner-based origin trait. If you're keeping one, your choice of barrels and then a mag that adds extra bullets or a combat effect first, and then Feeding Frenzy gives faster reloads, and Repulsor Brace gives your void classes another way to proc an overshield (although you'd be better off with a good roll on Unforgiven). Recommended MW: your choice, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags: pve, pve-minor, controller
 The Hero's Burden,Appended Mag,Feeding Frenzy,Repulsor Brace,
+The Hero's Burden,Armor-Piercing Rounds,Feeding Frenzy,Repulsor Brace,
+The Hero's Burden,High-Caliber Rounds,Feeding Frenzy,Repulsor Brace,
+The Hero's Burden,Ricochet Rounds,Feeding Frenzy,Repulsor Brace,
 
 // D.F.A. (PvE first-choice roll)
 // Chambered Compensator, Tactical Mag, Perpetual Motion, Timed Payload
@@ -9690,6 +9704,8 @@ Submission,Extended Mag,Overflow,Frenzy,
 // Any barrel, Any mag, (Subsistence, Subsistence Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Frenzy, Frenzy Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Perfect recoil makes control fairly easy, but go for your choice of range, stability or handling in the barrel. Look to increase magazine size with the mag, and then Subsistence or Perpetual Motion pair with Frenzy to keep you shooting with a decent damage buff. Recommended MW: Reload Speed, with a Backup Mag (if not using Extended Mag) or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Submission,Subsistence,Frenzy,
+Submission,Perpetual Motion,Frenzy,
+Submission,Perpetual Motion Enhanced,Frenzy,
 
 // Submission (Adept) (PvE first choice roll)
 // Any barrel, Extended Mag, (Overflow, Overflow Enhanced), (Frenzy, Frenzy Enhanced)
@@ -9700,6 +9716,8 @@ Submission (Adept),Extended Mag,Overflow,Frenzy,
 // Any barrel, Any mag, (Subsistence, Subsistence Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Frenzy, Frenzy Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Perfect recoil direciton makes control fairly easy, so go for your choice of range, stability or handling in the barrel. Look to increase magazine size with the mag, and then Subsistence or Perpetual Motion pair with Frenzy to keep you shooting with a decent damage buff. Recommended MW: Reload Speed, with a Backup Mag (if not using Extended Mag) or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Submission (Adept),Subsistence,Frenzy,
+Submission (Adept),Perpetual Motion,Frenzy,
+Submission (Adept),Perpetual Motion Enhanced,Frenzy,
 
 // Deliverance (PvE first choice roll)
 // Any barrel, Any mag, (Cornered, Cornered Enhanced), (Surrounded, Surrounded Enhanced)
@@ -9710,6 +9728,7 @@ Deliverance,Cornered,Surrounded,
 // Any barrel, Any mag, (Perpetual Motion, Perpetual Motion Enhanced), (Surrounded, Surrounded Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Perpetual Motion passively improves gun feel and reload speed and Surrounded gives a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.|tags:pve
 Deliverance,Perpetual Motion,Surrounded,
+Deliverance,Perpetual Motion Enhanced,Surrounded,
 
 // Deliverance (PvE backup roll)
 // Any barrel, Any mag, (Compulsive Reloader, Compulsive Reloader Enhanced), (Chill Clip, Chill Clip Enhanced)
@@ -9730,6 +9749,7 @@ Deliverance (Adept),Cornered,Surrounded,
 // Any barrel, Any mag, (Perpetual Motion, Perpetual Motion Enhanced), (Surrounded, Surrounded Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Perpetual Motion passively improves gun feel and reload speed and Surrounded gives a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.|tags:pve
 Deliverance (Adept),Perpetual Motion,Surrounded,
+Deliverance (Adept),Perpetual Motion Enhanced,Surrounded,
 
 // Deliverance (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Compulsive Reloader, Compulsive Reloader Enhanced), (Chill Clip, Chill Clip Enhanced)
@@ -9781,21 +9801,34 @@ description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/b
 // Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing or High-Calibre Rounds) preferences. Perpetual Motion passively improves gun feel. You're likely to be in CQC, so Swashbuckler is the obvious damage boost perk. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Empirical Evidence,Perpetual Motion,Swashbuckler,
+Empirical Evidence,Perpetual Motion Enhanced,Swashbuckler,
 
 // Empirical Evidence (PvE backup roll)
 // Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion Enhanced, Tunnel Vision, Tunnel Vision (enhanced)), (Adagio, Adagio Enhanced, Thresh, Thresh Enhanced, Wellspring, Wellspring Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing/High-Calibre Rounds) preferences. Perpetual Motion and Tunnel Vision improve gun feel. Adagio is effectively a 10% chainable damage buff, Thresh and Wellspring give faster super/ability charging. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Empirical Evidence,Perpetual Motion,Adagio,
+Empirical Evidence,Perpetual Motion Enhanced,Adagio,
+Empirical Evidence,Tunnel Vision,Adagio,
+Empirical Evidence,Perpetual Motion,Thresh,
+Empirical Evidence,Perpetual Motion Enhanced,Thresh,
+Empirical Evidence,Tunnel Vision,Thresh,
+Empirical Evidence,Perpetual Motion,Wellspring,
+Empirical Evidence,Perpetual Motion Enhanced,Wellspring,
+Empirical Evidence,Tunnel Vision,Wellspring,
 
 // The Enigma (PvE first choice roll)
 // Any haft, Any Mag, (Impulse Amplifier, Impulse Amplifier Enhanced), (Frenzy, Frenzy Enhanced, Unrelenting, Unrelenting Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end game content. Hafts and mags are dependent on use - shield and charge time are useful if you use the shield function, or for mid-range projectile use tend towards range. Impulse Amplifier improves both projectile and reload speed, while Frenzy provides a decent damage buff or Unrelenting gives health to keep you in a fight longer. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Enigma,Impulse Amplifier,Frenzy,
+The Enigma,Impulse Amplifier,Unrelenting,
 
 // The Enigma (PvE first choice roll)
 // Any haft, Any Mag, (Threat Detector, Threat Detector Enhanced, Grave Robber, Grave Robbert Enhanced), (Frenzy, Frenzy Enhanced, Unrelenting, Unrelenting Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end game content. Hafts and mags are dependent on use - shield and charge time are useful if you use the shield function, or handling/reload speed to help with CQC use. Threat Detector or Grave Robber help with handling and reload in close quarters, while Frenzy provides a decent damage buff or Unrelenting gives health to keep you in a fight longer. Recommended MW: Reload Speed or Handling, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Enigma,Threat Detector,Frenzy,
+The Enigma,Grave Robber,Frenzy,
+The Enigma,Threat Detector,Unrelenting,
+The Enigma,Grave Robber,Unrelenting,
 
 // The Enigma (PvE backup roll)
 // Any haft, Any Mag, (Impulse Amplifier, Impulse Amplifier Enhanced), (Unstoppable Force, Unstoppable Force Enhanced)
@@ -9811,6 +9844,7 @@ The Enigma,Subsistence,Rampage,
 // Any barrel, Any mag, (Field Prep, Field Prep Enhanced), (Frenzy, Frenzy Enhanced, Lasting Impression, Lasting Impression Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. No Auto-Loading Holster (although faster crouching reloads with Field Prep helps in a pinch), nor intrinsic tracking. Aim to round out Velocity, Impact Damage and Reload Speed with Barrel, Mag and Masterwork. On the plus side it does slightly more damage intrinsically. Lasting Impression or Frenzy give solid damage boosts, and it's void so works with a Void 3.0 build. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Red Herring,Field Prep,Frenzy,
+Red Herring,Field Prep,Lasting Impression,
 
 
 @title:Triumph Weapon
@@ -9853,6 +9887,25 @@ Come to Pass,Stats for All,One for All,Come to Pass,Polygonal Rifling,Tactical M
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Any Trait 1, (Golden Tricorn, Golden Tricorn Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general PvE content, although it's not a strong subtype this is the only arc auto rifle that can roll with Golden Tricorn, so might be worth tucking away for Arc 3.0. The gun feel is helped with some extra stability - up to you how much you feel you need. Pretty much any first column trait will pair with Golden Tricorn. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Come to Pass,Polygonal Rifling,Tactical Mag,Golden Tricorn,
+Come to Pass,Chambered Compensator,Tactical Mag,Golden Tricorn,
+Come to Pass,Smallbore,Tactical Mag,Golden Tricorn,
+Come to Pass,Fluted Barrel,Tactical Mag,Golden Tricorn,
+Come to Pass,Corkscrew Rifling,Tactical Mag,Golden Tricorn,
+Come to Pass,Polygonal Rifling,Flared Magwell,Golden Tricorn,
+Come to Pass,Chambered Compensator,Flared Magwell,Golden Tricorn,
+Come to Pass,Smallbore,Flared Magwell,Golden Tricorn,
+Come to Pass,Fluted Barrel,Flared Magwell,Golden Tricorn,
+Come to Pass,Corkscrew Rifling,Flared Magwell,Golden Tricorn,
+Come to Pass,Polygonal Rifling,Tactical Mag,Golden Tricorn Enhanced,
+Come to Pass,Chambered Compensator,Tactical Mag,Golden Tricorn Enhanced,
+Come to Pass,Smallbore,Tactical Mag,Golden Tricorn Enhanced,
+Come to Pass,Fluted Barrel,Tactical Mag,Golden Tricorn Enhanced,
+Come to Pass,Corkscrew Rifling,Tactical Mag,Golden Tricorn Enhanced,
+Come to Pass,Polygonal Rifling,Flared Magwell,Golden Tricorn Enhanced,
+Come to Pass,Chambered Compensator,Flared Magwell,Golden Tricorn Enhanced,
+Come to Pass,Smallbore,Flared Magwell,Golden Tricorn Enhanced,
+Come to Pass,Fluted Barrel,Flared Magwell,Golden Tricorn Enhanced,
+Come to Pass,Corkscrew Rifling,Flared Magwell,Golden Tricorn Enhanced,
 
 // Father's Sins (PvE first choice roll)
 // Tactical Mag, (Triple Tap, Triple Tap Enhanced), (Focused Fury, Focus Fury Enhanced)
@@ -9863,11 +9916,13 @@ Father's Sins,Tactical Mag,Triple Tap,Focused Fury,
 // Tactical Mag, (Lead from Gold, Lead from Gold Enhanced, Field Prep, Field Prep Enhanced) (Rampage, Rampage Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for add clear for bounties, particularly with Void 3.8 volatile rounds. Tactical Mag gets you to the maximum seven in the mag. Shoot to Loot and Field Prep both help with ammo economy and rampage might help with the occasional body shot to a beefier enemy. Recommended MW: Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Father's Sins,Tactical Mag,Lead from Gold,Rampage,
+Father's Sins,Tactical Mag,Field Prep,Rampage,
 
 // Tarnation (PvE first choice roll)
 // Any barrel, Any mag, (Field Prep, Field Prep Enhanced, Clown Cartridge, Clown Cartridge Enhanced), (Chain Reaction, Chain Reaction Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. No boss damage traits so focus on using barrel and mag to increase Blast Radius and/or help Reload Speed along, and use Chain Reaction for add clearing instead. Recommended MW: Blast Radius or Reload Speed, with Backup Mag mod.|tags:pve
 Tarnation,Field Prep,Chain Reaction,
+Tarnation,Clown Cartridge,Chain Reaction,
 
 
 @title:Throne World Weapons
@@ -9882,16 +9937,31 @@ Likely Suspect,Enhanced Battery,Stats for All,One for All,
 // Any barrel, Enhanced Battery, (Perpetual Motion, Perpetual Motion Enhanced, Ensemble, Ensemble Enhanced, Firmly Planted, Firmly Planted Enhanced), (Golden Tricorn, Golden Tricorn Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for sustained boss DPS. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference - stability is useful to keep bolt spread tight. Enhanced Battery gets you to the maximum eight in he mag. Perpetual Motion, Ensemble or Firmly Planted improve the gun feel, while Golden Tricorn can provide a 50% damage boost for 10 seconds - enough for most damage phases. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Likely Suspect,Enhanced Battery,Perpetual Motion,Golden Tricorn,
+Likely Suspect,Enhanced Battery,Perpetual Motion Enhanced,Golden Tricorn,
+Likely Suspect,Enhanced Battery,Ensemble,Golden Tricorn,
+Likely Suspect,Enhanced Battery,Firmly Planted,Golden Tricorn,
+Likely Suspect,Enhanced Battery,Perpetual Motion,Golden Tricorn Enhanced,
+Likely Suspect,Enhanced Battery,Perpetual Motion Enhanced,Golden Tricorn Enhanced,
+Likely Suspect,Enhanced Battery,Ensemble,Golden Tricorn Enhanced,
+Likely Suspect,Enhanced Battery,Firmly Planted,Golden Tricorn Enhanced,
 
 // Likely Suspect (PvE backup roll)
 // Any barrel, Enhanced Battery, (Perpetual Motion, Perpetual Motion Enhanced, Ensemble, Ensemble Enhanced, Firmly Planted, Firmly Planted Enhanced), (Adagio, Adagio Enhanced, Successful Warm-Up, Successful Warm-Up Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference for stability, handling or range. Enhanced Battery gets you to the maximum eight in he mag. Perpetual Motion, Ensemble or Firmly Planted improve the gun feel, while Adagio and Successful Warm-Up both provide chainable damage output buffs on kills. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Likely Suspect,Enhanced Battery,Perpetual Motion,Adagio,
+Likely Suspect,Enhanced Battery,Perpetual Motion Enhanced,Adagio,
+Likely Suspect,Enhanced Battery,Ensemble,Adagio,
+Likely Suspect,Enhanced Battery,Firmly Planted,Adagio,
+Likely Suspect,Enhanced Battery,Perpetual Motion,Successful Warm-Up,
+Likely Suspect,Enhanced Battery,Perpetual Motion Enhanced,Successful Warm-Up,
+Likely Suspect,Enhanced Battery,Ensemble,Successful Warm-Up,
+Likely Suspect,Enhanced Battery,Firmly Planted,Successful Warm-Up,
 
 // Pointed Inquiry (PvE first choice roll)
 // Any barrel, Any mag, (Genesis, Genesis Enhanced), (Turnabout, Turnabout Enhanced, Adaptive Munitions, Adaptive Munitions Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Genesis pairs well with either Turnabout for extra shields or Adaptive Munitions, to keep firing after a shield is broken. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Pointed Inquiry,Genesis,Turnabout,
+Pointed Inquiry,Genesis,Adaptive Munitions,
 
 // Pointed Inquiry (PvE first choice roll)
 // Any barrel, Any mag, (Fourth Time's The Charm, Fourth Time's The Charm Enhanced), (Focused Fury, Focused Fury Enhanced)
@@ -9947,41 +10017,65 @@ Duty Bound (Adept),Perpetual Motion,Rampage,Duty Bound (Adept),Arrowhead Brake,S
 // Any barrel, Appended Mag, Triple Tap (Firing Line, Frenzy, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for Burst damage on a Major or Boss. The Stunning Recovery origin trait could be useful when there's an anti-champion sniper mod. Choose your barrel depending on your Range/Stability/Handling preferences. Appended Mag gets you an extra round in the mag, giving five crit hits before reloading with Triple Tap. Firing Line is your choice for damage in a fireteam, while Frenzy or Focused Fury are better for solo activities. Recommended MW: Reload Speed or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Silicon Neuroma,Appended Mag,Triple Tap,Firing Line,
+Silicon Neuroma,Appended Mag,Triple Tap,Frenzy,
+Silicon Neuroma,Appended Mag,Triple Tap,Focused Fury,
 
 // Silicon Neuroma (Adept) (PvE first choice roll)
 // Any barrel, Appended Mag, Triple Tap (Firing Line, Frenzy, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for Burst damage on a Major or Boss. The Stunning Recovery origin trait could be useful when there's an anti-champion sniper mod. Choose your barrel depending on your Range/Stability/Handling preferences. Appended Mag with Adept Backup Mag gets you to five rounds in the mag, giving seven crit hits before reloading with Triple Tap. Firing Line is your choice for damage in a fireteam, while Frenzy or Focused Fury are better for solo activities. Recommended MW: Reload Speed or Handling, with Adept Backup Mag mod.|tags:pve
 Silicon Neuroma (Adept),Appended Mag,Triple Tap,Firing Line,
+Silicon Neuroma (Adept),Appended Mag,Triple Tap,Frenzy,
+Silicon Neuroma (Adept),Appended Mag,Triple Tap,Focused Fury,
 
 // Perses-D (PvE first choice roll)
 / Any barrel, (Tactical Mag, Flared Magwell), Stats For All, One For All
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful if you're looking at the "All For All" combo, as you're not starting off with as large a mag as an auto rifle. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Perses-D,Tactical Mag,Stats for All,One for All,
+Perses-D,Flared Magwell,Stats for All,One for All,
 
 // Perses-D (PvE first choice roll)
 / Any barrel, (Tactical Mag, Flared Magwell), Stats For All, Explosive Payload
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful with Stats For All, as you're not starting off with as large a mag as an auto rifle. Splash Damage from Explosive Payload counts towards the proccing conditions for SFA, as well as dealing more damage, helping through flinch and working with anti-Champion mods. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Perses-D,Tactical Mag,Stats for All,Explosive Payload,
+Perses-D,Flared Magwell,Stats for All,Explosive Payload,
 
 // Perses-D (PvE first choice roll)
 / Any barrel, (Tactical Mag, Flared Magwell), Rapid Hit, (Explosive Payload, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Rapid Hit procs on the same conditions as Focused Fury for stability/reload speed and damage boosts, Or Explosive Payload deals more damage, helps through flinch and works with anti-Champion mods. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Perses-D,Tactical Mag,Rapid Hit,Explosive Payload,
+Perses-D,Flared Magwell,Rapid Hit,Explosive Payload,
+Perses-D,Tactical Mag,Rapid Hit,Focused Fury,
+Perses-D,Flared Magwell,Rapid Hit,Focused Fury,
 
 // Perses-D (PvE first choice roll)
 / Any barrel, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Vorpal Weapon
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Rapid Hit or Perpetual Motion help with reload speed and other useful stats. Vorpal Weapon doubles down on the origin perk providing additional damage to vehicles, turrets and constructs like Shriekers and Cyclopses. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Perses-D,Tactical Mag,Rapid Hit,Vorpal Weapon,
+Perses-D,Flared Magwell,Rapid Hit,Vorpal Weapon,
+Perses-D,Tactical Mag,Perpetual Motion,Vorpal Weapon,
+Perses-D,Flared Magwell,Perpetual Motion,Vorpal Weapon,
 
 // Perses-D (PvE first choice roll)
 / Any barrel, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Headstone
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Rapid Hit or Perpetual Motion help with reload speed and other useful stats. Headstone works well with Stasis builds and the origin perk, which does additional damage to stasis crystals for the dragonfly-like AOE damage. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Perses-D,Tactical Mag,Rapid Hit,Headstone,
+Perses-D,Flared Magwell,Rapid Hit,Headstone,
+Perses-D,Tactical Mag,Perpetual Motion,Headstone,
+Perses-D,Flared Magwell,Perpetual Motion,Headstone,
 
 // Perses-D (PvE first choice roll)
 / Any barrel, (Tactical Mag, Flared Magwell), Shoot to Loot, (Headstone, Explosive Rounds, Focused Fury, One for All, Vorpal Weapon)
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Shoot to Loot can be very useful for end-game content allowing you to restock ammo from cover and reload all your weapons. Headstone works well with Stasis builds and the origin perk, which does additional damage to stasis crystals for the dragonfly-like AOE damage, Explosive Payload adds damage, flinch and utility against Champions, or non-kill damage boosters increase your effectiveness in combat. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Perses-D,Tactical Mag,Shoot to Loot,Headstone,
+Perses-D,Flared Magwell,Shoot to Loot,Headstone,
+Perses-D,Tactical Mag,Shoot to Loot,Explosive Payload,
+Perses-D,Flared Magwell,Shoot to Loot,Explosive Payload,
+Perses-D,Tactical Mag,Shoot to Loot,Focused Fury,
+Perses-D,Flared Magwell,Shoot to Loot,Focused Fury,
+Perses-D,Tactical Mag,Shoot to Loot,One for All,
+Perses-D,Flared Magwell,Shoot to Loot,One for All,
+Perses-D,Tactical Mag,Shoot to Loot,Vorpal Weapon,
+Perses-D,Flared Magwell,Shoot to Loot,Vorpal Weapon,
 
 // Ragnhild-D (PvE first choice roll)
 // (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Auto-Loading Holster, Auto-Loading Holster Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (One-Two Punch, One-Two Punch Enhanced)
@@ -9994,6 +10088,8 @@ Ragnhild-D,Perpetual Motion Enhanced,One-Two Punch,Ragnhild-D,Barrel Shroud,Assa
 // Any barrel, Any magazine, (Auto-Loading Holster, Auto-Loading Holster Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (One-Two Punch, One-Two Punch Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE backup roll for end-game content. Shapeable weapon. Your choice of barrels and mag perks, depending on your preferences. Use Auto-Loading Holster to be certain when you pull it out, it's ready to roll, or Perpetual Motion to help with boosts to all the useful stats, with the reliability of One-Two Punch for close-up major and champion damage. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Ragnhild-D,Auto-Loading Holster,One-Two Punch,
+Ragnhild-D,Perpetual Motion,One-Two Punch,
+Ragnhild-D,Perpetual Motion Enhanced,One-Two Punch,
 
 // Ragnhild-D (PvE first-choice roll)
 // (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Subsistence, Subs Enhanced), (Demolitionist, Demolitionist Enhanced, Adrenaline Junkie, Adrenaline Junkie Enhanced)
@@ -10005,6 +10101,7 @@ Ragnhild-D,Subsistence,Adrenaline Junkie,Ragnhild-D,Barrel Shroud,Assault Mag
 // Any barrel, Any magazine, (Subsistence, Subs Enhanced), (Demolitionist, Demolitionist Enhanced, Adrenaline Junkie, Adrenaline Junkie Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE backup roll for general content. Shapeable weapon. Your choice of barrels and mag perks, depending on your preferences. Subsistence kills keep your magazine topped off, while Demolitionist or Adrenaline Junkie both have utility for grenade-based builds. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Ragnhild-D,Subsistence,Demolitionist,
+Ragnhild-D,Subsistence,Adrenaline Junkie,
 
 // Palmyra-B (PvE first choice roll)
 // (Volatile Launch, Confined Launch), Impact Casing (Auto-Loading Holster, Auto-Loading Holster Enhanced), (Explosive Light, Lasting Impression, Lasting Impression Enhanced)
@@ -10027,21 +10124,41 @@ Herod-C,Stats for All,One for All,
 // Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Vorpal Weapon
 //notes: (???  ???): Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Vorpal Weapon builds into the foundry intrinsic perk to do more damage against vehicles, turrets, constructs and Stasis crystals. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Herod-C,Stats for All,Vorpal Weapon,
+Herod-C,Fourth Time's the Charm,Vorpal Weapon,
+Herod-C,Shoot to Loot,Vorpal Weapon,
+Herod-C,Perpetual Motion,Vorpal Weapon,
+Herod-C,Heating Up,Vorpal Weapon,
+Herod-C,Auto-Loading Holster,Vorpal Weapon,
 
 // Herod-C (PvE first choice roll)
 // Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Headstone
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Headstone works well for Stasis builds, with the foundry intrinsic perk providing extra damage against Stasis crystals for dragonfly-like AOE damage. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Herod-C,Stats for All,Headstone,
+Herod-C,Fourth Time's the Charm,Headstone,
+Herod-C,Shoot to Loot,Headstone,
+Herod-C,Perpetual Motion,Headstone,
+Herod-C,Heating Up,Headstone,
+Herod-C,Auto-Loading Holster,Headstone,
 
 // Herod-C (PvE first choice roll)
 // Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Frenzy
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Frenzy provides a reliable passive damage-boost. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Herod-C,Stats for All,Frenzy,
+Herod-C,Fourth Time's the Charm,Frenzy,
+Herod-C,Shoot to Loot,Frenzy,
+Herod-C,Perpetual Motion,Frenzy,
+Herod-C,Heating Up,Frenzy,
+Herod-C,Auto-Loading Holster,Frenzy,
 
 // Herod-C (PvE first choice roll)
 // Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Miltikill Clip
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for general use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Multikill Clip is a good damage boost perk for non end-game activities. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Herod-C,Stats for All,Multikill Clip,
+Herod-C,Fourth Time's the Charm,Multikill Clip,
+Herod-C,Shoot to Loot,Multikill Clip,
+Herod-C,Perpetual Motion,Multikill Clip,
+Herod-C,Heating Up,Multikill Clip,
+Herod-C,Auto-Loading Holster,Multikill Clip,
 
 
 title:Nightfall weapons part 3 and Omolon foundry
@@ -10059,6 +10176,9 @@ The Comedian,Subsistence,Trench Barrel,The Comedian,Barrel Shroud,Assault Mag
 // Any barrel, Any mag, (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, choose your preference in barrel and mag perks, and add something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 The Comedian,Lead from Gold,Vorpal Weapon,
+The Comedian,Subsistence,Vorpal Weapon,
+The Comedian,Lead from Gold,Trench Barrel,
+The Comedian,Subsistence,Trench Barrel,
 
 // The Comedian (Adept) (PvE first choice roll)
 // (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
@@ -10072,6 +10192,9 @@ The Comedian (Adept),Subsistence,Trench Barrel,The Comedian (Adept),Barrel Shrou
 // Any barrel, Any mag, (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, choose your preference in barrel and mag perks, and add something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Adept Big Ones or Taken Spec) mod.|tags:pve
 The Comedian (Adept),Lead from Gold,Vorpal Weapon,
+The Comedian (Adept),Subsistence,Vorpal Weapon,
+The Comedian (Adept),Lead from Gold,Trench Barrel,
+The Comedian (Adept),Subsistence,Trench Barrel,
 
 // The Hothead (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Auto-loading Holster, (Explosive Light, Lasting Impression)
@@ -10083,6 +10206,7 @@ The Hothead,Auto-Loading Holster,Lasting Impression,The Hothead,Hard Launch,Impa
 // Any barrel, Any mag, Auto-loading Holster, (Explosive Light, Lasting Impression)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for burst and sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use Auto-Loading Holster and a damage-boosting trait, and pair with a sniper to continue damage while it reloads in its holster. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 The Hothead,Auto-Loading Holster,Explosive Light,
+The Hothead,Auto-Loading Holster,Lasting Impression,
 
 // The Hothead (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), (Alloy Casing, High-velocity Rounds), (Field Prep, Ensemble), Clown Cartridge
@@ -10094,6 +10218,7 @@ The Hothead,Ensemble,Clown Cartridge,The Hothead,Hard Launch,Alloy Casing
 // Any barrel, Any mag, (Field Prep, Ensemble), Clown Cartridge
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use maximise damage output with your last two traits - Field Prep for better reserves and faster reload while crouched (or Ensemble if you're in a fireteam), and Clown Cartridge for two in the chamber on reload. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 The Hothead,Field Prep,Clown Cartridge,
+The Hothead,Ensemble,Clown Cartridge,
 
 // The Hothead (Adept) (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Auto-loading Holster, (Explosive Light, Lasting Impression)
@@ -10105,6 +10230,7 @@ The Hothead (Adept),Auto-Loading Holster,Lasting Impression,The Hothead (Adept),
 // Any barrel, Any mag, Auto-loading Holster, (Explosive Light, Lasting Impression)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for burst and sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use Auto-Loading Holster and a damage-boosting trait, and pair with a sniper to continue damage while it reloads in its holster. Recommended MW: Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod.|tags:pve
 The Hothead (Adept),Auto-Loading Holster,Explosive Light,
+The Hothead (Adept),Auto-Loading Holster,Lasting Impression,
 
 // The Hothead (Adept) (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), (Alloy Casing, High-velocity Rounds), (Field Prep, Ensemble), Clown Cartridge
@@ -10116,16 +10242,25 @@ The Hothead (Adept),Ensemble,Clown Cartridge,The Hothead (Adept),Hard Launch,All
 // Any barrel, Any mag, (Field Prep, Ensemble), Clown Cartridge
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use maximise damage output with your last two traits - Field Prep for better reserves and faster reload while crouched (or Ensemble if you're in a fireteam), and Clown Cartridge for two in the chamber on reload. Recommended MW: Reload Speed, with a damage-boosting (Adept Big Ones or Taken Spec) mod.|tags:pve
 The Hothead (Adept),Field Prep,Clown Cartridge,
+The Hothead (Adept),Ensemble,Clown Cartridge,
 
 // Crisis Inverted (PvE first choice roll)
 // Any barrel, Armor-Piercing Rounds, (Rapid Hit, Shoot To Loot), (Vorpal Weapon, Turnmabout)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice roll for barrier champion mods. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrels, with Armor-Piercing Rounds and a useful trait to pair with Vorpal Weapon or Turnabout in the final column. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Major or Taken Spec) mod.|tags:pve
 Crisis Inverted,Armor-Piercing Rounds,Rapid Hit,Vorpal Weapon,
+Crisis Inverted,Armor-Piercing Rounds,Shoot to Loot,Vorpal Weapon,
+Crisis Inverted,Armor-Piercing Rounds,Rapid Hit,Turnabout,
+Crisis Inverted,Armor-Piercing Rounds,Shoot to Loot,Turnabout,
 
 // Crisis Inverted (PvE backup roll)
 // Any barrel, Armor-Piercing Rounds, (Stats For  All, Outlaw, Demolitionist), (Vorpal Weapon, Turnmabout)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for barrier champion mods. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrels, with Armor-Piercing Rounds and a useful trait to pair with Vorpal Weapon or Turnabout in the final column. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Major or Taken Spec) mod.|tags:pve
 Crisis Inverted,Armor-Piercing Rounds,Stats for All,Vorpal Weapon,
+Crisis Inverted,Armor-Piercing Rounds,Outlaw,Vorpal Weapon,
+Crisis Inverted,Armor-Piercing Rounds,Demolitionist,Vorpal Weapon,
+Crisis Inverted,Armor-Piercing Rounds,Stats for All,Turnabout,
+Crisis Inverted,Armor-Piercing Rounds,Outlaw,Turnabout,
+Crisis Inverted,Armor-Piercing Rounds,Demolitionist,Turnabout,
 
 // Crisis Inverted (PvE first choice roll)
 // Any barrel, Any mag, Stats For All, One For All
@@ -10146,11 +10281,31 @@ Crisis Inverted,Shoot to Loot,One for All,
 // Any barrel, Any Mag, (Shoot to Loot, Stats For All, Outlaw, Demolitionist, Rapid Hit), (One For All, Vorpal Weapon, Adrenaline Junkie, Turnabout)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Crisis Inverted,Shoot to Loot,One for All,
+Crisis Inverted,Stats for All,One for All,
+Crisis Inverted,Outlaw,One for All,
+Crisis Inverted,Demolitionist,One for All,
+Crisis Inverted,Rapid Hit,One for All,
+Crisis Inverted,Shoot to Loot,Vorpal Weapon,
+Crisis Inverted,Stats for All,Vorpal Weapon,
+Crisis Inverted,Outlaw,Vorpal Weapon,
+Crisis Inverted,Demolitionist,Vorpal Weapon,
+Crisis Inverted,Rapid Hit,Vorpal Weapon,
+Crisis Inverted,Shoot to Loot,Adrenaline Junkie,
+Crisis Inverted,Stats for All,Adrenaline Junkie,
+Crisis Inverted,Outlaw,Adrenaline Junkie,
+Crisis Inverted,Demolitionist,Adrenaline Junkie,
+Crisis Inverted,Rapid Hit,Adrenaline Junkie,
+Crisis Inverted,Shoot to Loot,Turnabout,
+Crisis Inverted,Stats for All,Turnabout,
+Crisis Inverted,Outlaw,Turnabout,
+Crisis Inverted,Demolitionist,Turnabout,
+Crisis Inverted,Rapid Hit,Turnabout,
 
 // Ogma PR6 (PvE first choice roll)
 // Any barrel, Any mag, Adaptive Munitions, (Disruption Break, Turnabout)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for anti. Omolon trait gives stability and reload speed in the top half of the mag. The unique (as at S17) combination of Adaptive Munitions and Disruption Break for 50% more kinetic damage after a shield break, or Turnabout for an overshile don sheild break. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Ogma PR6,Adaptive Munitions,Disruption Break,
+Ogma PR6,Adaptive Munitions,Turnabout,
 
 // Ogma PR6 (PvE first choice roll)
 // Any barrel, Any mag, Demolitionist, Adrenaline Junkie
@@ -10181,6 +10336,8 @@ Typhon GL5,Spike Grenades,Impulse Amplifier,Explosive Light,
 // Any barrel, Any mag, Demolitionist, (Adrenaline Junkie, Chill Clip, Frenzy)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Your preference of barrel and mag for blast radius or velocity and reload speed. Then pair with Demolitionist for more grenades and Adrenaline Junkie for grenade builds, Chill Clip to slow groups of enemies or Frenzy for a reliable damage boost against beefier enemies. Recommended MW: Blast Radius, Velocity or Reload Speed with a damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Typhon GL5,Demolitionist,Adrenaline Junkie,
+Typhon GL5,Demolitionist,Chill Clip,
+Typhon GL5,Demolitionist,Frenzy,
 
 
 title:Suros foundry weapons
@@ -10190,6 +10347,8 @@ description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel), Any mag, (Outlaw, Outlaw Enhanced), (Headstone, Headstone Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for stasis builds. Shapeable. Solid feeling weapon - could do with a tiny bit of help with recoil direction in the barrel, and then your choice of mag perk for stability, range, reload speed or combat effect. Maybe more PvP options with the traits, but Outlaw and Headstone provide a solid choice of weapon for stasis builds. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.|tags:pve
 Syncopation-53,Arrowhead Brake,Outlaw,Headstone,
+Syncopation-53,Chambered Compensator,Outlaw,Headstone,
+Syncopation-53,Extended Barrel,Outlaw,Headstone,
 
 // Syncopation-53 (PvE backup roll)
 // Any barrel, Any mag, (Outlaw, Outlaw Enhanced), (Headstone, Headstone Enhanced)
@@ -10200,6 +10359,8 @@ Syncopation-53,Outlaw,Headstone,
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel), Any mag, (Outlaw, Outlaw Enhanced), (Frenzy, Frenzy Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game use. Shapeable. Solid feeling weapon - could do with a tiny bit of help with recoil direction in the barrel, and then your choice of mag perk for stability, range, reload speed or combat effect. Maybe more PvP options with the traits, but Outlaw will help keep kill streaks going once you proc Frenzy. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags:pve
 Syncopation-53,Arrowhead Brake,Outlaw,Frenzy,
+Syncopation-53,Chambered Compensator,Outlaw,Frenzy,
+Syncopation-53,Extended Barrel,Outlaw,Frenzy,
 
 // Syncopation-53 (PvE backup roll)
 // Any barrel, Any mag, (Outlaw, Outlaw Enhanced), (Frenzy, Frenzy Enhanced)
@@ -10215,6 +10376,8 @@ Cantata-57,Rapid Hit,Timed Payload,
 // (FastDraw HCS, SteadyHand HCS, TrueSight HCS), Any mag, Stats For All, One For All
 //notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE backup roll for end-game use. Only keep if you haven't got a better arc hand cannon already, as the bases stats are pretty much worst in class. Avoid any sight that harms a stat, and choose your preferred mag. The "All For All" combo of Stats For All and One For All is available, even if it takes 30% of your magazine to proc. Recommended MW: Handling, Stability or Reload Speed, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Finite Impactor,Fastdraw HCS,Stats for All,One for All,
+Finite Impactor,SteadyHand HCS,Stats for All,One for All,
+Finite Impactor,TrueSight HCS,Stats for All,One for All,
 
 // Occluded Finality (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Mag, Auto-Loading Holster, (Firing Line, Vorpal Weapon)
@@ -10226,6 +10389,7 @@ Occluded Finality,Auto-Loading Holster,Vorpal Weapon,Occluded Finality,Fluted Ba
 // Any barrel, Extended Mag, Auto-Loading Holster, (Firing Line, Vorpal Weapon)
 //notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE backup roll for Boss DPS. Your choice of barrel, then Extended Mag plus Backup Mag mod gives you seven shots. Auto-Loading Holster means you can ignore the tanked Reload Speed while you swap to your power weapon to to continue damage and reload, and Firing Line works in a fireteam, or Vorpal Weapon works for solo content. Recommended MW: Handling, with Backup Mag mod.|tags:pve
 Occluded Finality,Extended Mag,Auto-Loading Holster,Firing Line,
+Occluded Finality,Extended Mag,Auto-Loading Holster,Vorpal Weapon,
 
 // Fugue-55 (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, Auto-Loading Holster, (Firing Line, Vorpal Weapon)
@@ -10237,6 +10401,7 @@ Fugue-55,Auto-Loading Holster,Vorpal Weapon,Fugue-55,Fluted Barrel,Appended Mag
 // Any barrel, Extended Mag, Auto-Loading Holster, (Firing Line, Vorpal Weapon)
 //notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE backup roll for Boss DPS. Your choice of barrel, then Extended Mag plus Backup Mag mod gives you seven shots. Auto-Loading Holster means you can ignore the tanked Reload Speed while you swap to your power weapon to to continue damage and reload, and Firing Line works in a fireteam, or Vorpal Weapon works for solo content. Recommended MW: Handling, with Backup Mag mod.|tags:pve
 Fugue-55,Extended Mag,Auto-Loading Holster,Firing Line,
+Fugue-55,Extended Mag,Auto-Loading Holster,Vorpal Weapon,
 
 // Fortissimo-11 (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), Fourth Time's The Charm, (Frenzy, Vorpal Weapon)
@@ -10354,11 +10519,13 @@ Shayura's Wrath (Adept),Perpetual Motion,Adrenaline Junkie,
 // Arrowhead Brake, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Messenger,Arrowhead Brake,Rapid Hit,Frenzy,
+The Messenger,Arrowhead Brake,Perpetual Motion,Frenzy,
 
 // The Messenger (PvE backup roll)
 // Any barrel, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Messenger,Rapid Hit,Frenzy,
+The Messenger,Perpetual Motion,Frenzy,
 
 // The Messenger (PvE first choice roll)
 // Arrowhead Brake, Any mag, Stats For All, One For All
@@ -10374,21 +10541,29 @@ The Messenger,Stats for All,One for All,
 // Arrowhead Brake, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Messenger,Arrowhead Brake,Rapid Hit,Kill Clip,
+The Messenger,Arrowhead Brake,Outlaw,Kill Clip,
+The Messenger,Arrowhead Brake,Rapid Hit,Desperado,
+The Messenger,Arrowhead Brake,Outlaw,Desperado,
 
 // The Messenger (PvE first choice roll)
 // Any barrel, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, , with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Messenger,Rapid Hit,Kill Clip,
+The Messenger,Outlaw,Kill Clip,
+The Messenger,Rapid Hit,Desperado,
+The Messenger,Outlaw,Desperado,
 
 // The Messenger (Adept) (PvE first choice roll)
 // Arrowhead Brake, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
 The Messenger (Adept),Arrowhead Brake,Rapid Hit,Frenzy,
+The Messenger (Adept),Arrowhead Brake,Perpetual Motion,Frenzy,
 
 // The Messenger (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
 The Messenger (Adept),Rapid Hit,Frenzy,
+The Messenger (Adept),Perpetual Motion,Frenzy,
 
 // The Messenger (Adept) (PvE first choice roll)
 // Arrowhead Brake, Any mag, Stats For All, One For All
@@ -10404,11 +10579,17 @@ The Messenger (Adept),Stats for All,One for All,
 // Arrowhead Brake, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
 The Messenger (Adept),Arrowhead Brake,Rapid Hit,Kill Clip,
+The Messenger (Adept),Arrowhead Brake,Outlaw,Kill Clip,
+The Messenger (Adept),Arrowhead Brake,Rapid Hit,Desperado,
+The Messenger (Adept),Arrowhead Brake,Outlaw,Desperado,
 
 // The Messenger (Adept) (PvE first choice roll)
 // Any barrel, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, , with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
 The Messenger (Adept),Rapid Hit,Kill Clip,
+The Messenger (Adept),Outlaw,Kill Clip,
+The Messenger (Adept),Rapid Hit,Desperado,
+The Messenger (Adept),Outlaw,Desperado,
 
 // The Summoner (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
@@ -10420,6 +10601,13 @@ The Summoner,Perpetual Motion,Golden Tricorn,The Summoner,Arrowhead Brake,Armor-
 // Any barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner,Armor-Piercing Rounds,Overflow,Golden Tricorn,
+The Summoner,High-Caliber Rounds,Overflow,Golden Tricorn,
+The Summoner,Ricochet Rounds,Overflow,Golden Tricorn,
+The Summoner,Flared Magwell,Overflow,Golden Tricorn,
+The Summoner,Armor-Piercing Rounds,Perpetual Motion,Golden Tricorn,
+The Summoner,High-Caliber Rounds,Perpetual Motion,Golden Tricorn,
+The Summoner,Ricochet Rounds,Perpetual Motion,Golden Tricorn,
+The Summoner,Flared Magwell,Perpetual Motion,Golden Tricorn,
 
 // The Summoner (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
@@ -10442,6 +10630,9 @@ The Summoner,Dynamic Sway Reduction,Golden Tricorn,The Summoner,Arrowhead Brake,
 // AAny barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Golden Tricorn
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Dynamic Sway Reduction can help with landing mid-range shots, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner,Armor-Piercing Rounds,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner,High-Caliber Rounds,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner,Ricochet Rounds,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner,Flared Magwell,Dynamic Sway Reduction,Golden Tricorn,
 
 // The Summoner (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, (Rampage, Wellspring, Multikill Clip, Focused Fury)
@@ -10455,11 +10646,40 @@ The Summoner,Dynamic Sway Reduction,Focused Fury,The Summoner,Arrowhead Brake,Ar
 // Any barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, (Rampage, Wellspring, Multikill Clip, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Dynamic Sway Reduction can help with landing mid-range shots, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner,Armor-Piercing Rounds,Dynamic Sway Reduction,Rampage,
+The Summoner,High-Caliber Rounds,Dynamic Sway Reduction,Rampage,
+The Summoner,Ricochet Rounds,Dynamic Sway Reduction,Rampage,
+The Summoner,Flared Magwell,Dynamic Sway Reduction,Rampage,
+The Summoner,Armor-Piercing Rounds,Dynamic Sway Reduction,Wellspring,
+The Summoner,High-Caliber Rounds,Dynamic Sway Reduction,Wellspring,
+The Summoner,Ricochet Rounds,Dynamic Sway Reduction,Wellspring,
+The Summoner,Flared Magwell,Dynamic Sway Reduction,Wellspring,
+The Summoner,Armor-Piercing Rounds,Dynamic Sway Reduction,Multikill Clip,
+The Summoner,High-Caliber Rounds,Dynamic Sway Reduction,Multikill Clip,
+The Summoner,Ricochet Rounds,Dynamic Sway Reduction,Multikill Clip,
+The Summoner,Flared Magwell,Dynamic Sway Reduction,Multikill Clip,
+The Summoner,Armor-Piercing Rounds,Dynamic Sway Reduction,Focused Fury,
+The Summoner,High-Caliber Rounds,Dynamic Sway Reduction,Focused Fury,
+The Summoner,Ricochet Rounds,Dynamic Sway Reduction,Focused Fury,
+The Summoner,Flared Magwell,Dynamic Sway Reduction,Focused Fury,
 
 // The Summoner (PvE backup roll)
 // Any barrel, Any mag, (Overflow, Perpetual Motion, Dynamic Sway Reduction), (Golden Tricorn, Rampage, Wellspring, Multikill Clip, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion/Dynamic Sway Reduction boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner,Overflow,Golden Tricorn,
+The Summoner,Perpetual Motion,Golden Tricorn,
+The Summoner,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner,Overflow,Rampage,
+The Summoner,Perpetual Motion,Rampage,
+The Summoner,Dynamic Sway Reduction,Rampage,
+The Summoner,Overflow,Wellspring,
+The Summoner,Perpetual Motion,Wellspring,
+The Summoner,Dynamic Sway Reduction,Wellspring,
+The Summoner,Overflow,Multikill Clip,
+The Summoner,Perpetual Motion,Multikill Clip,
+The Summoner,Dynamic Sway Reduction,Multikill Clip,
+The Summoner,Overflow,Focused Fury,
+The Summoner,Perpetual Motion,Focused Fury,
+The Summoner,Dynamic Sway Reduction,Focused Fury,
 
 // The Summoner (Adept) (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
@@ -10471,6 +10691,13 @@ The Summoner (Adept),Perpetual Motion,Golden Tricorn,The Summoner (Adept),Arrowh
 // Any barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
 The Summoner (Adept),Armor-Piercing Rounds,Overflow,Golden Tricorn,
+The Summoner (Adept),High-Caliber Rounds,Overflow,Golden Tricorn,
+The Summoner (Adept),Ricochet Rounds,Overflow,Golden Tricorn,
+The Summoner (Adept),Flared Magwell,Overflow,Golden Tricorn,
+The Summoner (Adept),Armor-Piercing Rounds,Perpetual Motion,Golden Tricorn,
+The Summoner (Adept),High-Caliber Rounds,Perpetual Motion,Golden Tricorn,
+The Summoner (Adept),Ricochet Rounds,Perpetual Motion,Golden Tricorn,
+The Summoner (Adept),Flared Magwell,Perpetual Motion,Golden Tricorn,
 
 // The Summoner (Adept) (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
@@ -10493,6 +10720,9 @@ The Summoner (Adept),Dynamic Sway Reduction,Golden Tricorn,The Summoner (Adept),
 // AAny barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Golden Tricorn
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Dynamic Sway Reduction can help with landing mid-range shots, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner (Adept),Armor-Piercing Rounds,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner (Adept),High-Caliber Rounds,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner (Adept),Ricochet Rounds,Dynamic Sway Reduction,Golden Tricorn,
+The Summoner (Adept),Flared Magwell,Dynamic Sway Reduction,Golden Tricorn,
 
 // The Summoner (Adept) (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, (Rampage, Wellspring, Multikill Clip, Focused Fury)
@@ -10506,11 +10736,40 @@ The Summoner (Adept),Dynamic Sway Reduction,Focused Fury,The Summoner (Adept),Ar
 // Any barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, (Rampage, Wellspring, Multikill Clip, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Dynamic Sway Reduction can help with landing mid-range shots, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner (Adept),Armor-Piercing Rounds,Dynamic Sway Reduction,Rampage,
+The Summoner (Adept),High-Caliber Rounds,Dynamic Sway Reduction,Rampage,
+The Summoner (Adept),Ricochet Rounds,Dynamic Sway Reduction,Rampage,
+The Summoner (Adept),Flared Magwell,Dynamic Sway Reduction,Rampage,
+The Summoner (Adept),Armor-Piercing Rounds,Dynamic Sway Reduction,Wellspring,
+The Summoner (Adept),High-Caliber Rounds,Dynamic Sway Reduction,Wellspring,
+The Summoner (Adept),Ricochet Rounds,Dynamic Sway Reduction,Wellspring,
+The Summoner (Adept),Flared Magwell,Dynamic Sway Reduction,Wellspring,
+The Summoner (Adept),Armor-Piercing Rounds,Dynamic Sway Reduction,Multikill Clip,
+The Summoner (Adept),High-Caliber Rounds,Dynamic Sway Reduction,Multikill Clip,
+The Summoner (Adept),Ricochet Rounds,Dynamic Sway Reduction,Multikill Clip,
+The Summoner (Adept),Flared Magwell,Dynamic Sway Reduction,Multikill Clip,
+The Summoner (Adept),Armor-Piercing Rounds,Dynamic Sway Reduction,Focused Fury,
+The Summoner (Adept),High-Caliber Rounds,Dynamic Sway Reduction,Focused Fury,
+The Summoner (Adept),Ricochet Rounds,Dynamic Sway Reduction,Focused Fury,
+The Summoner (Adept),Flared Magwell,Dynamic Sway Reduction,Focused Fury,
 
 // The Summoner (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Overflow, Perpetual Motion, Dynamic Sway Reduction), (Golden Tricorn, Rampage, Wellspring, Multikill Clip, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion/Dynamic Sway Reduction boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 The Summoner (Adept),Overflow,Golden Tricorn,
+The Summoner (Adept),Perpetual Motion,Golden Tricorn,
+The Summoner (Adept),Dynamic Sway Reduction,Golden Tricorn,
+The Summoner (Adept),Overflow,Rampage,
+The Summoner (Adept),Perpetual Motion,Rampage,
+The Summoner (Adept),Dynamic Sway Reduction,Rampage,
+The Summoner (Adept),Overflow,Wellspring,
+The Summoner (Adept),Perpetual Motion,Wellspring,
+The Summoner (Adept),Dynamic Sway Reduction,Wellspring,
+The Summoner (Adept),Overflow,Multikill Clip,
+The Summoner (Adept),Perpetual Motion,Multikill Clip,
+The Summoner (Adept),Dynamic Sway Reduction,Multikill Clip,
+The Summoner (Adept),Overflow,Focused Fury,
+The Summoner (Adept),Perpetual Motion,Focused Fury,
+The Summoner (Adept),Dynamic Sway Reduction,Focused Fury,
 
 // Aisha's Embrace (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Triple Tap, Focused Fury
@@ -10578,11 +10837,17 @@ Aisha's Embrace (Adept),Stats for All,Adagio,Aisha's Embrace (Adept),Fluted Barr
 // Any barrel, Appended Mag, (No Distractions, Ensemble), (Vorpal Weapon, High-Impact Reserves)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. You can get seven in the mag with Appended Mag and a Backup Mag mod, but unfortunately, Eye of Sol lacks competitive traits for boss DPS. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.|tags:pve
 Eye of Sol,Appended Mag,No Distractions,Vorpal Weapon,
+Eye of Sol,Appended Mag,Ensemble,Vorpal Weapon,
+Eye of Sol,Appended Mag,No Distractions,High-Impact Reserves,
+Eye of Sol,Appended Mag,Ensemble,High-Impact Reserves,
 
 // Eye of Sol (Adept) (PvE first choice roll)
 // Any barrel, Appended Mag, (No Distractions, Ensemble), (Vorpal Weapon, High-Impact Reserves)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. You can get seven in the mag with Appended Mag and a Backup Mag mod, but unfortunately, Eye of Sol lacks competitive traits for boss DPS. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.|tags:pve
 Eye of Sol (Adept),Appended Mag,No Distractions,Vorpal Weapon,
+Eye of Sol (Adept),Appended Mag,Ensemble,Vorpal Weapon,
+Eye of Sol (Adept),Appended Mag,No Distractions,High-Impact Reserves,
+Eye of Sol (Adept),Appended Mag,Ensemble,High-Impact Reserves,
 
 title:YeezyGT's S16
 
@@ -12568,6 +12833,7 @@ PLUG ONE.1,Adaptive Munitions,Turnabout,
 // Any barrel, Any mag, (Compulsive Reloader, Feeding Frenzy), Reservoir Burst
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Compulsive Reloader or Feeding Frenzy both pair well with Reservoir Burst for burning through groups of adds. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 PLUG ONE.1,Compulsive Reloader,Reservoir Burst,
+PLUG ONE.1,Feeding Frenzy,Reservoir Burst,
 
 // PLUG ONE.1 (PvE first choice roll)
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Feeding Frenzy plus Adrenaline Junkie is worth tucking away ready for Arc 3.0. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
@@ -12582,6 +12848,7 @@ PLUG ONE.1 (Adept),Adaptive Munitions,Turnabout,
 // Any barrel, Any mag, (Compulsive Reloader, Feeding Frenzy), Reservoir Burst
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Compulsive Reloader or Feeding Frenzy both pair well with Reservoir Burst for burning through groups of adds. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
 PLUG ONE.1 (Adept),Compulsive Reloader,Reservoir Burst,
+PLUG ONE.1 (Adept),Feeding Frenzy,Reservoir Burst,
 
 // PLUG ONE.1 (Adept) (PvE first choice roll)
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Feeding Frenzy plus Adrenaline Junkie is worth tucking away ready for Arc 3.0. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.|tags:pve
@@ -12593,30 +12860,46 @@ PLUG ONE.1 (Adept),Feeding Frenzy,Adrenaline Junkie,
 // Any barrel, Appended Mag, (Overflow, Subsistence), Headstone
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general add clear. Barrel depends on your range/stability/handling preferences. Boost the mag size, and then pair with Subsistence or Overflow which, with the Veist Origin Perk, should keep you shooting. Pair with Headstone, a Stasis subclass using Whisper of Rending for what is effectively Stasis dragonfly. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Krait,Appended Mag,Overflow,Headstone,
+Krait,Appended Mag,Subsistence,Headstone,
 
 // Krait (PvE first choice roll)
 // Any barrel, Appended Mag, (Overflow, Subsistence), (One For All, Adagio)
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general add clear. Barrel depends on your range/stability/handling preferences. Boost the mag size, and then pair with Subsistence or Overflow which, with the Veist Origin Perk, should keep you shooting. Pair with One For All or Adagio for a damage boost. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Krait,Appended Mag,Overflow,One for All,
+Krait,Appended Mag,Subsistence,One for All,
+Krait,Appended Mag,Overflow,Adagio,
+Krait,Appended Mag,Subsistence,Adagio,
 
 // Redback-5si (PvE backup roll)
 // Any barrel, (Accurized ROunds, Steady Rounds, Alloy Mag, Flared Magwell), Perpetual Motion, Surrounded
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so choose something else. Perpetual Motion and Surrounded should work well together. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Redback-5si,Accurized Rounds,Perpetual Motion,Surrounded,
+Redback-5si,Steady Rounds,Perpetual Motion,Surrounded,
+Redback-5si,Alloy Magazine,Perpetual Motion,Surrounded,
+Redback-5si,Flared Magwell,Perpetual Motion,Surrounded,
 
 // Redback-5si (PvE backup roll)
 // Any barrel, (Accurized ROunds, Steady Rounds, Alloy Mag, Flared Magwell), Stats For All, One FOr All
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so choose something else. Stats For All and One For All work well together. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Redback-5si,Accurized Rounds,Stats for All,One for All,
+Redback-5si,Steady Rounds,Stats for All,One for All,
+Redback-5si,Alloy Magazine,Stats for All,One for All,
+Redback-5si,Flared Magwell,Stats for All,One for All,
 
 // Redback-5si (PvE backup roll)
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so got for something else. Perpetual Motion and Stats for All both give nice stat boosts, and Rampage is a reliable damage boost in non endgame content. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Redback-5si,Accurized Rounds,Stats for All,Rampage,
+Redback-5si,Steady Rounds,Stats for All,Rampage,
+Redback-5si,Alloy Magazine,Stats for All,Rampage,
+Redback-5si,Flared Magwell,Stats for All,Rampage,
 
 // Funnelweb (PvE first choice roll)
 // Any barrel, Any mag, (Perpetual Motion, Subsistence), (Frenzy Adrenaline Junkie)
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for endgame use. Barrel and mag depends on your range/stability/handling/recoil direction/mag size preferences. Perpetual Motion and Subsistence both work well with either Frenzy for reliable passive damage boost, or Adrenaline Junkie for Void 3.0 grenade builds. Recommended MW: Handling or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
 Funnelweb,Subsistence,Frenzy,
+Funnelweb,Perpetual Motion,Frenzy,
+Funnelweb,Subsistence,Adrenaline Junkie,
+Funnelweb,Perpetual Motion,Adrenaline Junkie,
 
 // Reed's Regret (PvE first choice roll)
 // Any barrel, Ionized Battery, Triple Tap, Firing Line, Veist Stinger
@@ -36994,6 +37277,7 @@ Stochastic Variable,Feeding Frenzy,Dragonfly,Stochastic Variable,Polygonal Rifli
 
 
 Crown-Splitter,Jagged Edge,Relentless Strikes,Vorpal Weapon,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE).
+Crown-Splitter,Jagged Edge,Relentless Strikes,Whirlwind Blade,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE).
 
 
 
@@ -37004,6 +37288,7 @@ Quickfang,Jagged Edge,Relentless Strikes,One for All,#notes:Chevy's S14 Super Po
 
 
 Eternity's Edge,Jagged Edge,Relentless Strikes,Assassin's Blade,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE).
+Eternity's Edge,Jagged Edge,Relentless Strikes,Surrounded,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE).
 
 
 
@@ -37376,11 +37661,17 @@ Occluded Finality,Snapshot Sights,Opening Shot,Occluded Finality,Hammer-Forged R
 // Survivor's Epitaph
 //notes:Drewsky (PvE): B-Tier (Average). Recommended MW: Range. Recommended Barrel: Any Range Boost.|tags:pve
 Survivor's Epitaph,High-Caliber Rounds,Rapid Hit,Kill Clip,
+Survivor's Epitaph,High-Caliber Rounds,Rapid Hit,Multikill Clip,
 
 
 // Survivor's Epitaph
 //notes:Drewsky (PvP): B-Tier (Average). Recommended MW: Range. Recommended Barrel: Any Range Boost.|tags:pvp
 Survivor's Epitaph,High-Caliber Rounds,Slideshot,Kill Clip,
+Survivor's Epitaph,High-Caliber Rounds,Surplus,Kill Clip,
+Survivor's Epitaph,High-Caliber Rounds,Killing Wind,Kill Clip,
+Survivor's Epitaph,High-Caliber Rounds,Slideshot,Multikill Clip,
+Survivor's Epitaph,High-Caliber Rounds,Surplus,Multikill Clip,
+Survivor's Epitaph,High-Caliber Rounds,Killing Wind,Multikill Clip,
 
 
 // Archon's Thunder
@@ -37901,6 +38192,9 @@ True Prophecy,Field Prep,Rampage,True Prophecy,Fastdraw HCS,Tactical Mag#notes:C
 
 
 Escape Velocity,Tactical Mag,Overflow,Surrounded,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
+Escape Velocity,Appended Mag,Overflow,Surrounded,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
+Escape Velocity,Tactical Mag,Threat Detector,Surrounded,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
+Escape Velocity,Appended Mag,Threat Detector,Surrounded,#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
 
 
 
@@ -38476,6 +38770,9 @@ True Prophecy,Field Prep,Rampage,True Prophecy,Fastdraw HCS,Tactical Mag#notes:C
 
 
 Escape Velocity,Tactical Mag,Overflow,Surrounded,#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+Escape Velocity,Appended Mag,Overflow,Surrounded,#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+Escape Velocity,Tactical Mag,Threat Detector,Surrounded,#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+Escape Velocity,Appended Mag,Threat Detector,Surrounded,#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
 
 
 
@@ -38680,11 +38977,33 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 // Hawkmoon
 //notes:pandapaxxy (PvE / M+KB): "For PvE Surplus or Killing Wind will depend on your build. A higher ability build will appreciate Surplus, a more solo run-n-gun build will appreciate Killing Wind. You could definitely opt for some of the other perks here too as nothing really screams PvE."|tags:pve,mkb
 Hawkmoon,Hammer-Forged Rifling,Surplus,Polymer Grip,
+Hawkmoon,Smallbore,Surplus,Polymer Grip,
+Hawkmoon,Fluted Barrel,Surplus,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Polymer Grip,
+Hawkmoon,Smallbore,Killing Wind,Polymer Grip,
+Hawkmoon,Fluted Barrel,Killing Wind,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Surplus,Smooth Grip,
+Hawkmoon,Smallbore,Surplus,Smooth Grip,
+Hawkmoon,Fluted Barrel,Surplus,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Smooth Grip,
+Hawkmoon,Smallbore,Killing Wind,Smooth Grip,
+Hawkmoon,Fluted Barrel,Killing Wind,Smooth Grip,
 
 
 // Hawkmoon
 //notes:pandapaxxy (PvP / M+KB): "For PvP I really value Rangefinder. It would give it the competitive edge over guns like Thorn or Ace and increase Hawkmoon’s already stellar consistency. If you don’t like the increased Zoom then something like Snapshot Sights really makes Hawkmoon feel snappy. You also can’t go wrong with Eye of the Storm, Opening Shot, or Killing Wind."|tags:pvp,mkb
 Hawkmoon,Hammer-Forged Rifling,Rangefinder,Polymer Grip,
+Hawkmoon,Smallbore,Rangefinder,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Snapshot Sights,Polymer Grip,
+Hawkmoon,Smallbore,Snapshot Sights,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Polymer Grip,
+Hawkmoon,Smallbore,Killing Wind,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Rangefinder,Smooth Grip,
+Hawkmoon,Smallbore,Rangefinder,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Snapshot Sights,Smooth Grip,
+Hawkmoon,Smallbore,Snapshot Sights,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Smooth Grip,
+Hawkmoon,Smallbore,Killing Wind,Smooth Grip,
 
 
 
@@ -38694,11 +39013,45 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 // Hawkmoon
 //notes:pandapaxxy (PvE / Controller): "For PvE Surplus or Killing Wind will depend on your build. A higher ability build will appreciate Surplus, a more solo run-n-gun build will appreciate Killing Wind. You could definitely opt for some of the other perks here too as nothing really screams PvE."|tags:pve,controller
 Hawkmoon,Smallbore,Surplus,Heavy Grip,
+Hawkmoon,Fluted Barrel,Surplus,Heavy Grip,
+Hawkmoon,Corkscrew Rifling,Surplus,Heavy Grip,
+Hawkmoon,Smallbore,Killing Wind,Heavy Grip,
+Hawkmoon,Fluted Barrel,Killing Wind,Heavy Grip,
+Hawkmoon,Corkscrew Rifling,Killing Wind,Heavy Grip,
+Hawkmoon,Smallbore,Surplus,Smooth Grip,
+Hawkmoon,Fluted Barrel,Surplus,Smooth Grip,
+Hawkmoon,Corkscrew Rifling,Surplus,Smooth Grip,
+Hawkmoon,Smallbore,Killing Wind,Smooth Grip,
+Hawkmoon,Fluted Barrel,Killing Wind,Smooth Grip,
+Hawkmoon,Corkscrew Rifling,Killing Wind,Smooth Grip,
 
 
 // Hawkmoon
 //notes:pandapaxxy (PvP / Controller): "For PvP I really value Rangefinder. It would give it the competitive edge over guns like Thorn or Ace and increase Hawkmoon’s already stellar consistency. If you don’t like the increased Zoom then something like Snapshot Sights really makes Hawkmoon feel snappy. You also can’t go wrong with Eye of the Storm, Opening Shot, or Killing Wind."|tags:pvp,controller
 Hawkmoon,Smallbore,Rangefinder,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Rangefinder,Smooth Grip,
+Hawkmoon,Smallbore,Snapshot Sights,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Snapshot Sights,Smooth Grip,
+Hawkmoon,Smallbore,Eye of the Storm,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Eye of the Storm,Smooth Grip,
+Hawkmoon,Smallbore,Killing Wind,Smooth Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Smooth Grip,
+Hawkmoon,Smallbore,Rangefinder,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Rangefinder,Polymer Grip,
+Hawkmoon,Smallbore,Snapshot Sights,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Snapshot Sights,Polymer Grip,
+Hawkmoon,Smallbore,Eye of the Storm,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Eye of the Storm,Polymer Grip,
+Hawkmoon,Smallbore,Killing Wind,Polymer Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Polymer Grip,
+Hawkmoon,Smallbore,Rangefinder,Heavy Grip,
+Hawkmoon,Hammer-Forged Rifling,Rangefinder,Heavy Grip,
+Hawkmoon,Smallbore,Snapshot Sights,Heavy Grip,
+Hawkmoon,Hammer-Forged Rifling,Snapshot Sights,Heavy Grip,
+Hawkmoon,Smallbore,Eye of the Storm,Heavy Grip,
+Hawkmoon,Hammer-Forged Rifling,Eye of the Storm,Heavy Grip,
+Hawkmoon,Smallbore,Killing Wind,Heavy Grip,
+Hawkmoon,Hammer-Forged Rifling,Killing Wind,Heavy Grip,
 
 
 title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
@@ -39281,6 +39634,21 @@ The Ringing Nail,Quickdraw,Rampage,The Ringing Nail,Rasmussen ISA,Ricochet Round
 //Bad News XF4354 (pve)
 //notes: PvE pick
 Bad News XF4354,Appended Mag,Outlaw,Kill Clip,
+Bad News XF4354,Tactical Mag,Outlaw,Kill Clip,
+Bad News XF4354,Alloy Magazine,Outlaw,Kill Clip,
+Bad News XF4354,Flared Magwell,Outlaw,Kill Clip,
+Bad News XF4354,Appended Mag,Triple Tap,Kill Clip,
+Bad News XF4354,Tactical Mag,Triple Tap,Kill Clip,
+Bad News XF4354,Alloy Magazine,Triple Tap,Kill Clip,
+Bad News XF4354,Flared Magwell,Triple Tap,Kill Clip,
+Bad News XF4354,Appended Mag,Outlaw,Explosive Payload,
+Bad News XF4354,Tactical Mag,Outlaw,Explosive Payload,
+Bad News XF4354,Alloy Magazine,Outlaw,Explosive Payload,
+Bad News XF4354,Flared Magwell,Outlaw,Explosive Payload,
+Bad News XF4354,Appended Mag,Triple Tap,Explosive Payload,
+Bad News XF4354,Tactical Mag,Triple Tap,Explosive Payload,
+Bad News XF4354,Alloy Magazine,Triple Tap,Explosive Payload,
+Bad News XF4354,Flared Magwell,Triple Tap,Explosive Payload,
 
 //bad news (pvp)
 //notes: PvP pick
@@ -39297,6 +39665,21 @@ Bad News XF4354,Moving Target,Kill Clip,Bad News XF4354,Sureshot HCS,Accurized R
 //crimil's dagger (pve)
 //notes: PvE pick
 Crimil's Dagger,Appended Mag,Outlaw,Kill Clip,
+Crimil's Dagger,Tactical Mag,Outlaw,Kill Clip,
+Crimil's Dagger,Alloy Magazine,Outlaw,Kill Clip,
+Crimil's Dagger,Flared Magwell,Outlaw,Kill Clip,
+Crimil's Dagger,Appended Mag,Triple Tap,Kill Clip,
+Crimil's Dagger,Tactical Mag,Triple Tap,Kill Clip,
+Crimil's Dagger,Alloy Magazine,Triple Tap,Kill Clip,
+Crimil's Dagger,Flared Magwell,Triple Tap,Kill Clip,
+Crimil's Dagger,Appended Mag,Outlaw,Explosive Payload,
+Crimil's Dagger,Tactical Mag,Outlaw,Explosive Payload,
+Crimil's Dagger,Alloy Magazine,Outlaw,Explosive Payload,
+Crimil's Dagger,Flared Magwell,Outlaw,Explosive Payload,
+Crimil's Dagger,Appended Mag,Triple Tap,Explosive Payload,
+Crimil's Dagger,Tactical Mag,Triple Tap,Explosive Payload,
+Crimil's Dagger,Alloy Magazine,Triple Tap,Explosive Payload,
+Crimil's Dagger,Flared Magwell,Triple Tap,Explosive Payload,
 
 //crimil's dagger (pvp)
 //notes: PvP pick
@@ -39313,6 +39696,41 @@ Crimil's Dagger,Moving Target,Kill Clip,Crimil's Dagger,Sureshot HCS,Accurized R
 //kindled orchid (pve)
 //notes: PvE pick
 Kindled Orchid,Appended Mag,Outlaw,Rapid Hit,
+Kindled Orchid,Tactical Mag,Outlaw,Rapid Hit,
+Kindled Orchid,Alloy Magazine,Outlaw,Rapid Hit,
+Kindled Orchid,Flared Magwell,Outlaw,Rapid Hit,
+Kindled Orchid,Appended Mag,Kill Clip,Rapid Hit,
+Kindled Orchid,Tactical Mag,Kill Clip,Rapid Hit,
+Kindled Orchid,Alloy Magazine,Kill Clip,Rapid Hit,
+Kindled Orchid,Flared Magwell,Kill Clip,Rapid Hit,
+Kindled Orchid,Appended Mag,Surrounded,Rapid Hit,
+Kindled Orchid,Tactical Mag,Surrounded,Rapid Hit,
+Kindled Orchid,Alloy Magazine,Surrounded,Rapid Hit,
+Kindled Orchid,Flared Magwell,Surrounded,Rapid Hit,
+Kindled Orchid,Appended Mag,Outlaw,Rampage,
+Kindled Orchid,Tactical Mag,Outlaw,Rampage,
+Kindled Orchid,Alloy Magazine,Outlaw,Rampage,
+Kindled Orchid,Flared Magwell,Outlaw,Rampage,
+Kindled Orchid,Appended Mag,Kill Clip,Rampage,
+Kindled Orchid,Tactical Mag,Kill Clip,Rampage,
+Kindled Orchid,Alloy Magazine,Kill Clip,Rampage,
+Kindled Orchid,Flared Magwell,Kill Clip,Rampage,
+Kindled Orchid,Appended Mag,Surrounded,Rampage,
+Kindled Orchid,Tactical Mag,Surrounded,Rampage,
+Kindled Orchid,Alloy Magazine,Surrounded,Rampage,
+Kindled Orchid,Flared Magwell,Surrounded,Rampage,
+Kindled Orchid,Appended Mag,Outlaw,Explosive Payload,
+Kindled Orchid,Tactical Mag,Outlaw,Explosive Payload,
+Kindled Orchid,Alloy Magazine,Outlaw,Explosive Payload,
+Kindled Orchid,Flared Magwell,Outlaw,Explosive Payload,
+Kindled Orchid,Appended Mag,Kill Clip,Explosive Payload,
+Kindled Orchid,Tactical Mag,Kill Clip,Explosive Payload,
+Kindled Orchid,Alloy Magazine,Kill Clip,Explosive Payload,
+Kindled Orchid,Flared Magwell,Kill Clip,Explosive Payload,
+Kindled Orchid,Appended Mag,Surrounded,Explosive Payload,
+Kindled Orchid,Tactical Mag,Surrounded,Explosive Payload,
+Kindled Orchid,Alloy Magazine,Surrounded,Explosive Payload,
+Kindled Orchid,Flared Magwell,Surrounded,Explosive Payload,
 
 //kindled orchid (pvp)
 //notes: PvP pick
@@ -39508,6 +39926,29 @@ Atalanta-D XG1992,Zen Moment,Grave Robber,Atalanta-D XG1992,SC Holo,Ricochet Rou
 //hero's burden (pve)
 //notes: PvE pick
 The Hero's Burden,High-Caliber Rounds,Slideways,Kill Clip,
+The Hero's Burden,Appended Mag,Slideways,Kill Clip,
+The Hero's Burden,Extended Mag,Slideways,Kill Clip,
+The Hero's Burden,Alloy Magazine,Slideways,Kill Clip,
+The Hero's Burden,High-Caliber Rounds,Zen Moment,Kill Clip,
+The Hero's Burden,Appended Mag,Zen Moment,Kill Clip,
+The Hero's Burden,Extended Mag,Zen Moment,Kill Clip,
+The Hero's Burden,Alloy Magazine,Zen Moment,Kill Clip,
+The Hero's Burden,High-Caliber Rounds,Slideways,High-Impact Reserves,
+The Hero's Burden,Appended Mag,Slideways,High-Impact Reserves,
+The Hero's Burden,Extended Mag,Slideways,High-Impact Reserves,
+The Hero's Burden,Alloy Magazine,Slideways,High-Impact Reserves,
+The Hero's Burden,High-Caliber Rounds,Zen Moment,High-Impact Reserves,
+The Hero's Burden,Appended Mag,Zen Moment,High-Impact Reserves,
+The Hero's Burden,Extended Mag,Zen Moment,High-Impact Reserves,
+The Hero's Burden,Alloy Magazine,Zen Moment,High-Impact Reserves,
+The Hero's Burden,High-Caliber Rounds,Slideways,Grave Robber,
+The Hero's Burden,Appended Mag,Slideways,Grave Robber,
+The Hero's Burden,Extended Mag,Slideways,Grave Robber,
+The Hero's Burden,Alloy Magazine,Slideways,Grave Robber,
+The Hero's Burden,High-Caliber Rounds,Zen Moment,Grave Robber,
+The Hero's Burden,Appended Mag,Zen Moment,Grave Robber,
+The Hero's Burden,Extended Mag,Zen Moment,Grave Robber,
+The Hero's Burden,Alloy Magazine,Zen Moment,Grave Robber,
 
 //hero's burden (pvp)
 //notes: PvP pick
