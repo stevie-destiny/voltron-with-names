@@ -2,6 +2,297 @@ title:This is a compiled collection of god/recommended rolls from top community 
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep54-lightfall-neomuna-weapons.txt
+
+@title:Season 20 Neomuna weapons
+@description:Lightfall weapons with the Nanotech Tracer Rockets origin trait
+
+// Round Robin (PvE first-choice roll)
+// Fluted Barrel, (Armor-Piercing Rounds, High-Caliber ROunds, Ricochet Rounds), (Stay Away, Subsistence), Hatchling
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Strand synergy in general content. Shapeable. Our first Strand Hand Cannon. Middling stats by comparison with other Aggressive Frames - prioritise handling and stability with your barrel and mag to improve gunfeel. You should be engaging enemies at a decent range so Keep Away boosts range, accuracy and reload speed, or Subsistence will keep your mag topped up. In the second trait column Hatchling spawns a Threadling on crit kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+Round Robin,Keep Away,Hatchling,Round Robin,Fluted Barrel,Armor-Piercing Rounds
+Round Robin,Subsistence,Hatchling,Round Robin,Fluted Barrel,Armor-Piercing Rounds
+
+// Synchronic Roulette (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Envious Assassin, Hatchling
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Strand synergy in general content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column - Envious Assassin is much better on a Special or Power weapon, but it's worth it for the occasional overfilled mag. In the second trait column Hatchling spawns a Threadling on rapid kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+Synchronic Roulette,Envious Assassin,Hatchling,Synchronic Roulette,Fluted Barrel,High-Caliber Rounds
+
+// Synchronic Roulette (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Pulse Monitor, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for end-game content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column but Pulse Monitor could be useful if you're out of cover to use Target Lock and are taking damage, to reload you magazine to keep your damage output up, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+Synchronic Roulette,Pulse Monitor,Target Lock,Synchronic Roulette,Fluted Barrel,High-Caliber Rounds
+
+// Phyllotactic Spiral (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Flared Magwell, Light Mag), Compulsive Reloader, Voltshot
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for general content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (you can never go wrong with additional handling and stability). With one eye to Voltshot in the final column, you want reload speed as high as possible so Flared Magwell or Light Mag, and Compulsive Reloader or Keep Away with a Reload Speed Masterwork should get Voltshot procced and ready to use as quickly as possible after a kill. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+Phyllotactic Spiral,Compulsive Reloader,Voltshot,Phyllotactic Spiral,Fluted Barrel,Flared Magwell
+Phyllotactic Spiral,Keep Away,Voltshot,Phyllotactic Spiral,Fluted Barrel,Flared Magwell
+
+// Phyllotactic Spiral (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Keep Away, Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for end-game content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (you can never go wrong with additional handling and stability). Any of the combat effect rounds add utility in the mag and then for end-game activities you'll likely be staying as far away from all the hurty stuff as possible, so should be proccing Keep Away and then Frenzy provides both gunfeel and a solid 15% damage boosts. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+Phyllotactic Spiral,Keep Away,Frenzy,Phyllotactic Spiral,Fluted Barrel,Armor-Piercing Rounds
+
+// Basso Ostinato (PvE first-choice roll)
+// (Barrel Shround, Corkscrew Rifling, Smallbore), Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for void synergy. We've seen rapid-fire shotguns a lot - maybe not the play for end-game activities where you're probably in trouble if you're close enough to use it, but useful for bursting down a major or champion once stunned. The ranges on shotguns are compressed, to look for a handling or stability barrel, and Tactical Mag is easily the best of the mag perks. Envious Assassin should provide an easy route to an overfilled magazine but as alternatives, Lead from Gold and Perpetual Motion are decent too. In the last column, Destabilizing Rounds spreads volatility to surrounding adds on a kill to synergise with Void subclass verbs. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+Basso Ostinato,Lead from Gold,Destabilizing Rounds,Basso Ostinato,Corkscrew Rifling,Tactical Mag
+Basso Ostinato,Envious Assassin,Destabilizing Rounds,Basso Ostinato,Corkscrew Rifling,Tactical Mag
+Basso Ostinato,Perpetual Motion,Destabilizing Rounds,Basso Ostinato,Corkscrew Rifling,Tactical Mag
+
+// Basso Ostinato (PvE first-choice roll)
+// (Barrel Shround, Corkscrew Rifling, Smallbore), Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), Trench Barrel
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage. We've seen rapid-fire shotguns a lot - you'll need to be careful to to be in a vulnerable position when using one, but they're useful for bursting down a major or champion once stunned. The ranges on shotguns are compressed, to look for a handling or stability barrel, and Tactical Mag is easily the best of the mag perks. Envious Assassin should provide an easy route to an overfilled magazine but as alternatives, Lead from Gold and Perpetual Motion are decent too. In the last column, Trench Barrel is reliable for fast burst damage in CQC and works well on a rapid-fire frame. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE although you'll probably not be seeing them often on a Boss-damaging weapon. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+Basso Ostinato,Lead from Gold,Trench Barrel,Basso Ostinato,Corkscrew Rifling,Tactical Mag
+Basso Ostinato,Envious Assassin,Trench Barrel,Basso Ostinato,Corkscrew Rifling,Tactical Mag
+Basso Ostinato,Perpetual Motion,Trench Barrel,Basso Ostinato,Corkscrew Rifling,Tactical Mag
+
+// Basso Ostinato (PvE first-choice roll)
+// Full Choke, Tactical Mag, Grave Robber, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage for Lethal Current/Liar's Handshake Hunters. We've seen rapid-fire shotguns a lot - you'll need to be careful to to be in a vulnerable position when using one, but they're useful for bursting down a major or champion once stunned. With one eye on One-Two Punch in the second trait column, Full Choke gives you the best chance of hitting your target with every pellet, and Tactical Mag is easily the best of the mag perks. You should be getting melee kills as you're rolling around and punching so Grave Robber should keep your mag filled, and One-Two Punch adds additional multiplicative melee damage (even if it's been nerfed somewhat). On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE although you'll probably not be seeing them often on a Boss-damaging weapon. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+Basso Ostinato,Grave Robber,One-Two Punch,Basso Ostinato,Full Choke,Tactical Mag
+
+// Basso Ostinato (PvE first-choice roll)
+// Full Choke, Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage. We've seen rapid-fire shotguns a lot - you'll need to be careful to to be in a vulnerable position when using one, but they're useful for bursting down a major or champion once stunned. With one eye on One-Two Punch in the second trait column, Full Choke gives you the best chance of hitting your target with every pellet, and Tactical Mag is easily the best of the mag perks. Envious Assassin should provide an easy route to an overfilled magazine but as alternatives, Lead from Gold and Perpetual Motion are decent too, and One-Two Punch adds additional multiplicative melee damage (even if it's been nerfed somewhat) to burst down a major, or even a boss. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE although you'll probably not be seeing them often on a Boss-damaging weapon. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+Basso Ostinato,Lead from Gold,One-Two Punch,Basso Ostinato,Full Choke,Tactical Mag
+Basso Ostinato,Envious Assassin,One-Two Punch,Basso Ostinato,Full Choke,Tactical Mag
+Basso Ostinato,Perpetual Motion,One-Two Punch,Basso Ostinato,Full Choke,Tactical Mag
+
+// Iterative Loop (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Polygonal Rifling), (Particle Repeater, Accelerated Coils), Compulsive Reloader, Voltshot
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Arc synergy and burst damage. Seeing as fusion rifles apply the highest Jolt tick damage of any special weapon, it would be rude not to pick or shape a roll. Rapid fire fusions need a fair bit of control with nine bolts being fired, so Arrowhead Break takes the recoil direction to 77, or up the stability through Fluted Barrel or Polygonal Rifling. In the battery, there's nothing to help speed up reloading, so Particle Repeater adds more stability, or Accelerated Coils speeds up charge time. Compulsive Reloader and a Reload Speed Masterwork boosts reload to 100 at the top half of the mag, so your reloads after a kill to proc Voltshot should be as snappy as it's possible to get. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with rapid kills - really fun for PvE. Recommended MW: Reload Speed or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+Iterative Loop,Compulsive Reloader,Voltshot,Iterative Loop,Arrowhead Brake,Particle Repeater
+
+// Volta Bracket (PvE first-choice roll)
+// Fluted Barrel, Extended Mag, Envious Assassin, (Explosive Payload, Firing Line)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column, Explosive Payload adds a flat 15% bonus damage or, in a fireteam, Firing Line adds 20% crit damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+Volta Bracket,Envious Assassin,Explosive Payload,Volta Bracket,Fluted Barrel,Extended Mag
+Volta Bracket,Envious Assassin,Firing Line,Volta Bracket,Fluted Barrel,Extended Mag
+
+// Volta Bracket (PvE backup roll)
+// Fluted Barrel, Appended Mag, Keep Away, (Explosive Payload, Firing Line)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). Backup PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. While you're waiting to shape one, Fluted Barrel makes it snappier, and Appended Mag adds an extra shot. If you're not proccing Keep Away to boost reload speed, accuracy, and range while using a sniper rifle, then you really do need a word with yourself. In the second trait column, Explosive Payload adds a flat 15% bonus damage or, in a fireteam, Firing Line adds 20% crit damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, Controller, M+KB
+Volta Bracket,Keep Away,Explosive Payload,Volta Bracket,Fluted Barrel,Appended Mag
+Volta Bracket,Keep Away,Firing Line,Volta Bracket,Fluted Barrel,Appended Mag
+
+// Volta Bracket (PvE first-choice roll)
+// Fluted Barrel, Extended Mag, Envious Assassin, Cascade Point
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column on mouse and keyboard where stability isn't so much of an issue, so Cascade Point can use the kills that boosted your mag to dump them into a target in short order into a target for speedy burst damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, M+KB
+Volta Bracket,Envious Assassin,Cascade Point,Volta Bracket,Fluted Barrel,Extended Mag
+
+// Dimensional Hypotrochoid (PvE first-choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Envious Assassin, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. There's an abundance of options for PvE in the first trait column, but the best option is Envious Assassin, passively overflowing the magazine as you get primary and special weapon kills, and then in the second, as this is primarily for add clear, Chain Reaction turns every kill into a stasis explosion, extending the damage radius and adding chunk damage against beefier enemies nearby. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+Dimensional Hypotrochoid,Envious Assassin,Chain Reaction,Dimensional Hypotrochoid,Hard Launch,High-Velocity Rounds
+
+// Dimensional Hypotrochoid (PvE backup roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, (Field Prep, Unrelenting, Threat Detector), Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). Backup PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. There's an abundance of options for PvE in the first trait column - Field Prep for extra reserves and reload speed, Unrelenting for health regeneration or Threat Detector for extra reload speed in CQC. Then in the second, as this is primarily for add clear, Chain Reaction turns every kill into a stasis explosion, extending the damage radius and adding chunk damage against beefier enemies nearby. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, Controller, M+KB
+Dimensional Hypotrochoid,Field Prep,Chain Reaction,Dimensional Hypotrochoid,Hard Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Unrelenting,Chain Reaction,Dimensional Hypotrochoid,Hard Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Threat Detector,Chain Reaction,Dimensional Hypotrochoid,Hard Launch,High-Velocity Rounds
+
+// Dimensional Hypotrochoid (PvE backup roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Stats for All, One for All
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). Backup PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. While you're add clearing, you're always likely to be clearing out multiple minors, so a SOFA (Stats/One For All) will layer on tonnes of gunfeel stat bosts and 35% bonus damage to help with beefier minors and the occasional major enemies. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, Controller, M+KB
+Dimensional Hypotrochoid,Stats for All,One for All,Dimensional Hypotrochoid,Hard Launch,High-Velocity Rounds
+
+// Circular Logic (PvE backup roll)
+// Chambered Compensator, (Extended Mag, Appended Mag), Envious Assassin, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for sustained damage against bosses in end-game activities. The first Strand flavoured LMG as at v7.0.0.3 but unfortunately stats are low by comparison with other adaptive frames - but there's still a choice of very usable rolls. Chambered Compensator takes the recoil direction to a controllable 90 and adds some extra stability. For sustained damage in boss DPS phases, you're looking for a combination of Extended or Appended Mag, together with Envious Assassin to then overfill the magazine with primary and special weapon kills as you lead up to the damage phase, and Target Lock to rack up to 40% additional damage against a single target. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Stability/Handling, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, Controller, M+KB
+Circular Logic,Envious Assassin,Target Lock,Circular Logic,Chambered Compensator,Extended Mag
+
+// Circular Logic (PvE first-choice roll)
+// Chambered Compensator, (Armor-Piercing Rounds, High-Calibre Rounds), (Feeding Frenzy, Keep Away, Pulse Monitor, Envious Assassin), (Hatchling, Golden Tricorn)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for add clear in end-game activities. The first Strand flavoured LMG as at v7.0.0.3 but unfortunately stats are low by comparison with other adaptive frames - but there's still a choice of very usable rolls. Chambered Compensator takes the recoil direction to a controllable 90 and adds some extra stability. If you're using this for add clear, any one of the combat effect rounds (High-Caliber, Armor-Piercing or Ricochet Rounds) will work in the mag, then a reload park like Feeding Frenzy, maybe Keep Away if you're not up to your neck in CQC adds, Pulse Monitor to refill the magazine when your shield's broken, or Envious Assassin to overfill the magazine before you start, should work nicely. In the second trait column, Hatchling should add additional damage through Threadline creation, or the first stack of Golden Tricorn will be a reliable 15% damage boost - you might have a little more work to do getting Strand ability kills but when you do, 50% bonus damage for 10s should rip through even the beefiest minors and occasional major. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Stability/Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+Circular Logic,Feeding Frenzy,Hatchling,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Keep Away,Hatchling,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Pulse Monitor,Hatchling,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Envious Assassin,Hatchling,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Feeding Frenzy,Golden Tricorn,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Keep Away,Golden Tricorn,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Pulse Monitor,Golden Tricorn,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+Circular Logic,Envious Assassin,Golden Tricorn,Circular Logic,Chambered Compensator,Armor-Piercing Rounds
+
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep51-season-19-foundry-weapons.txt
+
+@title:Season 19 Foundry weapons
+@description:New world drop weapons from weapon foundries
+
+// Aurvandil FR6 (PvE first-choice roll)
+// Fluted Barrel, (Ionized Battery, Enhanced Battery), Reconstruction, Chill Clip
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction then doubles your mag size, and bypasses any reload penalty and means that the top 3/4 of your magazine will now proc Chill Clip. The oversized magazine means you should also benefit from the Omolon origin perk stability boost. Recommended MW: Handling, Stability or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MajorSpec, PvE-EndGame, PvE-God, Controller, M+KB|tags:1820235745
+Aurvandil FR6,Reconstruction,Chill Clip,Aurvandil FR6,Fluted Barrel,Ionized Battery
+
+// Aurvandil FR6 (PvE backup roll)
+// (Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Reconstruction, Chill Clip
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction then doubles your mag size, and bypasses any reload penalty and means that the top 3/4 of your magazine will now proc Chill Clip. By consistently topping up the magazine you should also benefit from the Omolon origin perk stability boost. Recommended MW: Handling, Stability or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MajorSpec, PvE-EndGame, Controller, M+KB
+Aurvandil FR6,Reconstruction,Chill Clip,Aurvandil FR6,Arrowhead Brake,Ionized Battery
+
+// Aurvandil FR6 (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), (Subsistence, Slideways), Chill Clip
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. A full burst of a high-impact fusion will likely kill any red-bar even in end-game content so Subsistence should keep the magazine topped up, or Slideways can bypass any reload speed penalty, to proc Chill Clip. By consistently topping up the magazine you should also benefit from the Omolon origin perk stability boost. Recommended MW: Handling, Stability or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MajorSpec, PvE-EndGame, Controller, M+KB
+Aurvandil FR6,Subsistence,Chill Clip,Aurvandil FR6,Fluted Barrel,Ionized Battery
+Aurvandil FR6,Slideways,Chill Clip,Aurvandil FR6,Fluted Barrel,Ionized Battery
+
+// Aurvandil FR6 (PvE first-choice roll)
+// Fluted Barrel, (Ionized Battery, Enhanced Battery), Stats For All, One For All
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. If you spray with your first shot, then the SOFA (Stats/One For All) roll will more than offset any reload penalty, along with other gunfeel boosts, as well as increasing damage by a chunky 35%. The Omolon origin trait is useful in the top half of the mag, to help with reloads and a touch of extra stability too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MajorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Aurvandil FR6,Stats for All,One for All,Aurvandil FR6,Fluted Barrel,Ionized Battery
+
+// Aurvandil FR6 (PvE backup roll)
+// (Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Stats For All, One For All
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. If you spray with your first shot, then the SOFA (Stats/One For All) roll will more than offset any reload penalty, along with other gunfeel boosts, as well as increasing damage by a chunky 35%. The Omolon origin trait is useful in the top half of the mag, to help with reloads too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MajorSpec, PvE-EndGame, Controller, M+KB
+Aurvandil FR6,Stats for All,One for All,Aurvandil FR6,Arrowhead Brake,Ionized Battery
+
+// Aurvandil FR6 (PvE first-choice roll)
+// Fluted Barrel, (Ionized Battery, Enhanced Battery), (Reconstruction, Subsistence, Slideways), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction, Subsistence or Slideways all help you keep your magazine topped up so you can take advantage of the damage boost from Golden Tricorn. With this being a stasis weapon, the second stack is tough to proc, but the 15% extra damage from one stack is reliable and refreshable. The Omolon origin trait is useful in the top half of the mag, to help with reloads and a bit of extra stability too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Aurvandil FR6,Reconstruction,Golden Tricorn,Aurvandil FR6,Fluted Barrel,Ionized Battery
+Aurvandil FR6,Subsistence,Golden Tricorn,Aurvandil FR6,Fluted Barrel,Ionized Battery
+Aurvandil FR6,Slideways,Golden Tricorn,Aurvandil FR6,Fluted Barrel,Ionized Battery
+
+// Aurvandil FR6 (PvE backup roll)
+// (Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), (Reconstruction, Subsistence, Slideways), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction, Subsistence or Slideways all help you keep your magazine topped up so you can take advantage of the damage boost from Golden Tricorn. With this being a stasis weapon, the second stack is tough to proc, but the 15% extra damage from one stack is reliable and refreshable. The Omolon origin trait is useful in the top half of the mag, to help with reloads and a bit of extra stability too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+Aurvandil FR6,Reconstruction,Golden Tricorn,Aurvandil FR6,Arrowhead Brake,Ionized Battery
+Aurvandil FR6,Subsistence,Golden Tricorn,Aurvandil FR6,Arrowhead Brake,Ionized Battery
+Aurvandil FR6,Slideways,Golden Tricorn,Aurvandil FR6,Arrowhead Brake,Ionized Battery
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Pugilist, Repulsor Brace
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for void subclasses in general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. Pugilist can help recharge your melee to add a void verb to your target to proc Repulsor Brace on a kill and generate a void overshield to help tank damage in a crowd. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Fioritura-59,Pugilist,Repulsor Brace,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Pugilist, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for void subclasses in endgame content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. Pugilist can help recharge your melee for Golden Tricorn - you get a solid 15% extra damage for one stack after a kill or a hefty 50% bonus with an ability kill while the first stack is procced. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Fioritura-59,Pugilist,Golden Tricorn,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Pugilist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for void subclasses in general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. Pugilist and Swashbuckler form a natural pairing - get your melee kill to proc 33% bonus damage, and then recover your melee energy with the easy kills that result. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Fioritura-59,Pugilist,Swashbuckler,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Threat Detector, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for Void subclasses and end-game content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. As you're likely to be in CQC, Threat Detector should be proccing to provide extra gunfeel stats. In the second trait column, Golden Tricorn is the pick of the additional damage bunch with 15% bonus damage for one stack or 50% for two, which should be easy to proc with the strength of void abilities. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB|tags:1015611457 4082225868
+Fioritura-59,Threat Detector,Golden Tricorn,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Threat Detector, Repulsor Brace
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for Void subclasses and general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. As you're likely to be in CQC, Threat Detector should be proccing to provide extra gunfeel stats. In the second trait column for void subclasses, Repulsor Brace's void overshield can be useful to tank damage in a mob. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB|tags:1015611457 4082225868 2610012052
+Fioritura-59,Threat Detector,Repulsor Brace,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+
+// Fioritura-59 (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Threat Detector, (swashbuckler, Kill Clip)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). Backup PvE roll for general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. As you're likely to be in CQC, Threat Detector should be proccing to provide extra gunfeel stats. In the second trait column, Swashbuckler or Kill Clip are reliable sources of extra damage to keep kill streaks going. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+Fioritura-59,Threat Detector,Kill Clip,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+Fioritura-59,Threat Detector,Swashbuckler,Fioritura-59,Polygonal Rifling,High-Caliber Rounds
+
+// Jararaca-3sr (PvE first-choice roll)
+// Arrowhead Brake, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), (Rapid Hit, Perpetual Motion), Headstone
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for stasis subclasses in end-game content. Even nerfed, the Veist Stinger origin trait will still be useful occasionally. Jararaca has poor stats, unfortunately, by comparison with other rapid-fire and Veist rapid-fire scout rifles, but it does offer Stasis synergy. First, ou'll need Arrowhead Brake to sort out the recoil direction. Any of the combat effect rounds will help - if you keep firing until the end of the magazine, the frame perk will help reloads, so you can live without a reload speed-boosting magazine perk, especially with Rapid Hit or Perpetual Motion in the first trait column. Finally, for Stasis synergy, in the second trait column Headstone's crystals work with your aspects and fragments. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Jararaca-3sr,Rapid Hit,Headstone,Jararaca-3sr,Arrowhead Brake,High-Caliber Rounds
+Jararaca-3sr,Perpetual Motion,Headstone,Jararaca-3sr,Arrowhead Brake,High-Caliber Rounds
+
+// Jararaca-3sr (PvE first-choice roll)
+// Arrowhead Brake, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), Fourth Time's the Charm, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for end-game content. Even nerfed, the Veist Stinger origin trait will still be useful occasionally. Jararaca has poor stats, unfortunately, by comparison with other rapid-fire and Veist rapid-fire scout rifles, but it does offer Stasis synergy. First, you'll need Arrowhead Brake to sort out the recoil direction. Any of the combat effect rounds will help - if you keep firing until the end of the magazine, the frame perk will help with reloads. A combination of Fourth Time's the Charm to extend the mag together with Focused Fury, to add 20% bonus damage for hitting nine crits (assuming a mag size of 17) until you reload again should serve you well in end-game activities. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Jararaca-3sr,Fourth Time's the Charm,Focused Fury,Jararaca-3sr,Arrowhead Brake,High-Caliber Rounds
+
+// Lodbrok-C (PvE first-choice roll)
+// Smallbore, (Extended Mag, Appended Mag), Fourth Time's The Charm, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for end-game content. Pretty decent, in-bands stats, so Smallbore offers a little extra range and stability, both of which are useful boosts. To take full advantage of Target Lock, to burst down beefier minors, look for as large a magazine as you can and combine with Fourth Time's the Charm. This could be a little niche, but this roll with Lodbrok could be a useful tool to have in your loadout if you're facing constructs and vehicles, with the Hakke Breach Armaments' 15% damage boost on top of Target Lock. Recommended MW: Stability or Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Lodbrok-C,Fourth Time's the Charm,Target Lock,Lodbrok-C,Smallbore,Extended Mag
+
+// Lodbrok-C (PvE first-choice roll)
+// Smallbore, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), Osmosis, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for end-game content. Pretty decent, in-bands stats, so Smallbore offers a little extra range and stability, both of which are useful boosts. Any of the combat effect magazines can help you - High-Caliber Rounds, Armor-Piercing or Ricochet Rounds - so that's down to your preference. Even though match game is less of an issue from Season 20, you can take advantage of any ability verbs from the grenade you throw - so, for example, a void grenade can proc Volatile Rounds which your now void energy Lodbrok will apply. Unfortunately Demolitionist rolls in the same trait column, but Adrenaline Junkie will trigger on a grenade kill for 33% boost to damage on top in the second column instead. Recommended MW: Stability or Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Lodbrok-C,Osmosis,Adrenaline Junkie,Lodbrok-C,Smallbore,High-Caliber Rounds
+
+// Lodbrok-C (PvE first-choice roll)
+// Smallbore, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects (https://open.spotify.com/episode/5BpRdHN5pWyyKNLGsLB1Qh?si=4b9f4a74bf194ff2). First-choice PvE roll for end-game content. Pretty decent, in-bands stats, so Smallbore offers a little extra range and stability, both of which are useful boosts. Any of the combat effect magazines can help you - High-Caliber Rounds, Armor-Piercing or Ricochet Rounds - so that's down to your preference. Demolitionist with Adrenaline Junkie is a natural pairing - get the grenade kill to proc 33% extra damage and then clean up to regenerate your grenade energy to keep the loop going. Recommended MW: Stability or Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+Lodbrok-C,Demolitionist,Adrenaline Junkie,Lodbrok-C,Smallbore,High-Caliber Rounds
+
+// originally found at https://github.com/liminalAce/wishlists/blob/main/datto_lightfall.txt
+
+title:Datto's early thoughts on lightfall weapons.
+description:Original video at https://www.youtube.com/watch?v=JlV7QZ5P0Mk
+
+//Round Robin
+//notes: Datto's Thoughts, Round Robin is a strand, 120 RPM hand cannon. We have a lot of new perks with Lightfall and arguably one of the top rolls on this gun consists of 2 new perks: Keep Away and Hatchling. Keep Away is the opposite of Threat Detector, you get bonus stats when there is NOTHING near you, minus allies. Hatchling is where precision final blows or rapid non-precision kills spawn a Threadling at the target's location. In the first column, we have soem good stuff, Keep Away, Subsistence and Envious Assassin, another good perk, where rapidly killing targets with other guns will transfer ammo into this gun from reserves and this can overflow the magazine. At the moment, I feel like this is much more of a special weapon type perk, but I wouldn't begrudge you for using it as we feel it out. The second column has Hatchling, Kill Clip and Golden Tricorn. Golden Tricorn is definitely a bit better of a pick now thanks to 3.0 subclasses and the general up time you can have on grenades and melees nowadays. I think Hatchling is quite popular right now because it's new and it links up with Strand and there are Strand fragments to buff Threadlings, so if it fits with your build, it is certainly worth a try. Threadlings WILL proc Golden Tricorn if they are from Threadling Grenade. This gun just kicks pretty hard, it's a 120 so that makes sense, so I'm gonna be going with stability based minor perks and masterwork. I have heard good things about this gun in PvP with Keep Away and Kill Clip, but I have not tested it myself just yet. Again, it does kick pretty hard. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=43s
+Round Robin,Keep Away,Hatchling,Round Robin,Polygonal Rifling,Ricochet Rounds
+Round Robin,Keep Away,Golden Tricorn,Round Robin,Polygonal Rifling,Ricochet Rounds
+Round Robin,Keep Away,Hatchling,
+Round Robin,Keep Away,Golden Tricorn,
+
+//Volta Bracket
+//notes: Datto's Thoughts, Volta Bracket is a Strand Sniper, 72 RPM so a slower one, gonna be lower DPS, but higher total damage on average. I think the only PvE roll here is for the sniper copium addicts and that is Triple Tap or Envious Assassin and Firing Line. Pretty much any other option on this gun is for specialty use only. If you wanna use Hatchling for some sort of a build, cool, but snipers haven't received any significant changes and are still not very popular picks for most of PvE right now. Looking at range based perks or magazine based perks if used for single target damage purposes. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=150s
+Volta Bracket,Triple Tap,Firing Line,Volta Bracket,Hammer-Forged Rifling,Appended Mag
+Volta Bracket,Envious Assassin,Firing Line,Volta Bracket,Hammer-Forged Rifling,Appended Mag
+Volta Bracket,Triple Tap,Firing Line,
+Volta Bracket,Envious Assassin,Firing Line,
+
+//Phyllotactic Spiral
+//notes: Datto's Thoughts, Phyllotactic Spiral is an arc energy pulse, 340 RPM. This thing feels like it can get some pretty decent rolls, but I think Voltshot for PvE is just too nice to pass up. If you're going Voltshot in the second column, I'm gonna call an audible for lower end PvE content and go with Compulsive Reloader, since I feel like the goal with Voltshot is either hitting a big target with jolt and tagging a bunch of stuff around it with the AoE portion, which would make CR not good, or just mowing through little dinker enemies and constantly proccing it over and over. If you're doing the second thing, I'd try out Compulsive. In higher end content, I'm probably looking at Keep Away, maybe Tunnel Vision, but I don't think that's super important in PvE. Kill Clip and Frenzy are also on this thing, but I think Voltshot is just too good. I'm looking at range or reload speed for masterwork and then your choice of either magazine or range minor perks. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=192s
+Phyllotactic Spiral,Compulsive Reloader,Voltshot,Phyllotactic Spiral,Hammer-Forged Rifling,Appended Mag
+Phyllotactic Spiral,Keep Away,Voltshot,Phyllotactic Spiral,Hammer-Forged Rifling,Appended Mag
+Phyllotactic Spiral,Compulsive Reloader,Voltshot,
+Phyllotactic Spiral,Keep Away,Voltshot,
+
+//Iterative Loop
+//notes: Datto's Thoughts, Iterative Loop is an arc fusion rifle, rapid-fire frame, so 500 charge time. This is the first time I think we've seen a fusion with Voltshot, but honestly, besides Demolitionist, I'm not too thrilled with many of the other second column perks anyway, so we're probably going Voltshot regardless. In the first column, we got options, Lead From Gold, Killing Wind, but again, I'm calling an audible in Compulsive Reloader. You want to proc Voltshot a LOT on guns with Voltshot and fusion are pretty good at killing stuff in the top half of the magazine. But, I can understand if you wanna roll with something else. Reload masterwork as well, with Accelerated Coils or Enhanced Battery and probably Arrowhead Brake for recoil control. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=253s
+Iterative Loop,Compulsive Reloader,Voltshot,Iterative Loop,Arrowhead Brake,Accelerated Coils
+Iterative Loop,Lead from Gold,Voltshot,Iterative Loop,Arrowhead Brake,Accelerated Coils
+Iterative Loop,Lead from Gold,Demolitionist,Iterative Loop,Arrowhead Brake,Accelerated Coils
+
+//Dimensional Hypotrochoid
+//notes: Datto's Thoughts, Dimensional Hypotrochoid is the first wave frame grenade launcher in the heavy slot, it is stasis based. First column, Envious Assassin seems like a really easy pick given you're probably not gonna be doing most of your killing with this gun, but Stats for All isn't too bad of a pick either, along with Field Prep, even Unrelenting isn't the worst thing here, you have a lot of options, but I'm personally gonna take Envious Assassin. Second column, we have Chain Reaction, a big favorite and a good perk, One for All and... that's really about it for me, I'm not a huge fan of Vorpal anymore now that it's only 10% on bosses for power weapons. I dunno if I'm the hugest fan of this gun just yet in general though, I feel like special waveframe GLs are kinda getting the job done. Blast Radius is good for your minor perks. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=297s
+Dimensional Hypotrochoid,Envious Assassin,Chain Reaction,Dimensional Hypotrochoid,Volatile Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Envious Assassin,One for All,Dimensional Hypotrochoid,Volatile Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Stats for All,One for All,Dimensional Hypotrochoid,Volatile Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Stats for All,Chain Reaction,Dimensional Hypotrochoid,Volatile Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Field Prep,One for All,Dimensional Hypotrochoid,Volatile Launch,High-Velocity Rounds
+Dimensional Hypotrochoid,Envious Assassin,Chain Reaction,
+
+// Synchronic Roulette
+//notes: Datto's Thoughts, Synchronic Roulette. This is a Strand SMG, 600 RPM, so slower firing and wouldn't you know it, it too has Hatchling as a perk and I'm pretty sure that is the overwhelming favorite right now. In the first column, we have some decent options, Envious Assassin, Keep Away, Pulse Monitor, I might skew towards Pulse Monitor or Under Pressure. Again, Envious on a primary I'm not completely sold on, but it's not like it's a BAD option or anything like that. This might be more of a "pick what you like," kind of option, except for Slickdraw, don't pick that. Pugilist in the second column is also somewhat of an option for those of you with Strand builds as they can to be pretty melee focused. We're looking for range in our minor perks, little Arrowhead Brake again and either range or stability depending on your preference. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=353s
+Synchronic Roulette,Pulse Monitor,Hatchling,Synchronic Roulette,Arrowhead Brake,Ricochet Rounds
+Synchronic Roulette,Under Pressure,Hatchling,Synchronic Roulette,Arrowhead Brake,Ricochet Rounds
+Synchronic Roulette,Envious Assassin,Hatchling,Synchronic Roulette,Arrowhead Brake,Ricochet Rounds
+Synchronic Roulette,Keep Away,Hatchling,Synchronic Roulette,Arrowhead Brake,Ricochet Rounds
+Synchronic Roulette,Pulse Monitor,Hatchling,
+Synchronic Roulette,Under Pressure,Hatchling,
+Synchronic Roulette,Envious Assassin,Hatchling,
+Synchronic Roulette,Keep Away,Hatchling,
+
+
+// Basso Ostinato
+//notes: Datto's Thoughts, Basso Ostinato, a void shotgun, 140 RPM, rapid fire. Shotguns in PvE world are a bit weird, not really super popular at the moment, but I feel like with the difficulty increases, they're going to be a better mid-tier difficulty weapon class, stuff that's around -10, -15. In any case, This gun has 3 premier perks in the second column, One Two Punch, Trench Barrel, and new with Lightfall, Destabilizing Rounds, where final blows cause nearby targets to become Volatile. Anything with the word Volatile immediately is gonna perk some ears up and this is definitely the most popular perk on this gun at the moment for you void enjoyers out there. That being said, after running with this gun and this perk for a little bit, I wasn't exactly the most impressive, but I also wasn't optimized for its use pretty much at all, so there's probably some more investigating to be done. However, I'm skeptical. In the first column, Envious Assassin isn't a bad choice at all, Lead from Gold also getting a lot of love here, although I dunno if it's my favorite. Don't sleep on Grave Robber either, you're gonna be in melee range with this thing anyway so might as well get some free reloads. I think One-Two Punch is probably better on a harder hitting shotty, the faster ones feel like a more trigger happy kinda gun. You can certainly make arguments for both rapid fire and high impact shotguns in terms of 1-2 Punch viability. I think most people are gonna hunt Destabilizing Rounds to try them out while the perk is still new though, but if it ends up not being good, then 1-2 Punch or Trench Barrel. Magazine perks and range are good for your minor perks. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=412s
+Basso Ostinato,Envious Assassin,Trench Barrel,Basso Ostinato,Smoothbore,Appended Mag
+Basso Ostinato,Envious Assassin,One-Two Punch,Basso Ostinato,Smoothbore,Appended Mag
+Basso Ostinato,Envious Assassin,Destabilizing Rounds,Basso Ostinato,Smoothbore,Appended Mag
+Basso Ostinato,Lead from Gold,One-Two Punch,Basso Ostinato,Smoothbore,Appended Mag
+Basso Ostinato,Lead from Gold,Destabilizing Rounds,Basso Ostinato,Smoothbore,Appended Mag
+Basso Ostinato,Grave Robber,Destabilizing Rounds,Basso Ostinato,Smoothbore,Appended Mag
+Basso Ostinato,Envious Assassin,Trench Barrel,
+Basso Ostinato,Envious Assassin,One-Two Punch,
+Basso Ostinato,Grave Robber,Destabilizing Rounds,
+
+// Circular Logic
+//notes: Datto's Thoughts, Circular Logic, a strand machine gun, 450 RPM, which is pretty good. Why don't you take a guess as to what the most popular perk is here? If you said Hatchling, you'd be right. People wanting to experiment with Threadlings and consider how quickly you'll be able to mow down targets with a machine gun, I totally get the appeal. Fortunately the perks in the first column make things pretty simple: Feeding Frenzy, Envious Assassin and Keep Away are all good choices, but I'm probably leaning towards Feeding Frenzy or Envious Assassin. I'd say FF because I'm imagining the way that I would use this gun, which is basically as a primary weapon thanks to the reserves buff that machine guns got, and thus would never get to proc Envious Assassin in the first place. Target Lock is technically also an option thanks to the origin trait on these guns, but this perk turns the gun into more of a single target boss damage weapon vs. an add clear weapon. Interesting idea if you're looking for something to fit that niche. pve. https://www.youtube.com/watch?v=JlV7QZ5P0Mk&t=525s
+Circular Logic,Feeding Frenzy,Hatchling,Circular Logic,Polygonal Rifling,Appended Mag
+Circular Logic,Envious Assassin,Hatchling,Circular Logic,Polygonal Rifling,Appended Mag
+Circular Logic,Keep Away,Hatchling,Circular Logic,Polygonal Rifling,Appended Mag
+Circular Logic,Envious Assassin,Target Lock,Circular Logic,Polygonal Rifling,Appended Mag
+Circular Logic,Envious Assassin,Golden Tricorn,Circular Logic,Polygonal Rifling,Appended Mag
+Circular Logic,Feeding Frenzy,Hatchling,
+
 title:u/pandapaxxy's Season 19, World Drops M+KB Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
 
@@ -261,15 +552,15 @@ Long Arm,Hip-Fire Grip,Explosive Payload,Long Arm,Fluted Barrel,Steady Rounds
 
 // Wilderflight
 //notes:pandapaxxy (PvE / M+KB / Controller): "Wilderflight is an incredibly unique weapon. Similar to Warden’s Law it fires two grenades at once. This does mean that the grenades can split off and you’d only be doing half damage. The double grenades do have two impact damages which does put them ahead of regular grenade launchers. Auto-loading holster is still the best for fire-and-forget. Disruption break is always going to be a strong pick, especially on impacts for demolishing shields. Frenzy and vorpal can work if you’re primarily going to be using Wilderflight as your main source of damage instead of setting up yourself or your team for kinetic damage." Recommended MW - Reload.|tags:pve,mkb,controller
-Wilderflight,Auto-Loading Holster,Disruption Break,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Demolitionist,Disruption Break,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Unrelenting,Disruption Break,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Auto-Loading Holster,Frenzy,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Demolitionist,Frenzy,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Unrelenting,Frenzy,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Auto-Loading Holster,Vorpal Weapon,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Demolitionist,Vorpal Weapon,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Unrelenting,Vorpal Weapon,Wilderflight,Quick Launch,Blinding Grenades
+Wilderflight,Auto-Loading Holster,Disruption Break,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Demolitionist,Disruption Break,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Unrelenting,Disruption Break,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Auto-Loading Holster,Frenzy,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Demolitionist,Frenzy,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Unrelenting,Frenzy,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Auto-Loading Holster,Vorpal Weapon,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Demolitionist,Vorpal Weapon,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Unrelenting,Vorpal Weapon,Wilderflight,Quick Launch,Disorienting Grenades
 
 
 // Wilderflight
@@ -389,15 +680,15 @@ Long Arm,Hip-Fire Grip,Explosive Payload,Long Arm,Fluted Barrel,Steady Rounds
 
 // Wilderflight
 //notes:pandapaxxy (PvE / M+KB / Controller): "Wilderflight is an incredibly unique weapon. Similar to Warden’s Law it fires two grenades at once. This does mean that the grenades can split off and you’d only be doing half damage. The double grenades do have two impact damages which does put them ahead of regular grenade launchers. Auto-loading holster is still the best for fire-and-forget. Disruption break is always going to be a strong pick, especially on impacts for demolishing shields. Frenzy and vorpal can work if you’re primarily going to be using Wilderflight as your main source of damage instead of setting up yourself or your team for kinetic damage." Recommended MW - Reload.|tags:pve,mkb,controller
-Wilderflight,Auto-Loading Holster,Disruption Break,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Demolitionist,Disruption Break,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Unrelenting,Disruption Break,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Auto-Loading Holster,Frenzy,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Demolitionist,Frenzy,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Unrelenting,Frenzy,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Auto-Loading Holster,Vorpal Weapon,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Demolitionist,Vorpal Weapon,Wilderflight,Quick Launch,Blinding Grenades
-Wilderflight,Unrelenting,Vorpal Weapon,Wilderflight,Quick Launch,Blinding Grenades
+Wilderflight,Auto-Loading Holster,Disruption Break,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Demolitionist,Disruption Break,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Unrelenting,Disruption Break,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Auto-Loading Holster,Frenzy,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Demolitionist,Frenzy,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Unrelenting,Frenzy,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Auto-Loading Holster,Vorpal Weapon,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Demolitionist,Vorpal Weapon,Wilderflight,Quick Launch,Disorienting Grenades
+Wilderflight,Unrelenting,Vorpal Weapon,Wilderflight,Quick Launch,Disorienting Grenades
 
 
 // Wilderflight
@@ -929,15 +1220,15 @@ Hung Jury SR4 (Adept),Surplus,Firefly,Hung Jury SR4 (Adept),Smallbore,Flared Mag
 
 // Wendigo GL3
 //notes:pandapaxxy (PvE / M+KB / Controller): "Is the current meta open enough to allow Wendigo to flex its tired muscles? I think so. GLs aren’t oppressive in PvP but they offer better in between than a rocket or a machine gun. It can clear rooms quickly and do decent single target damage. With a linear fusion rifle nerf incoming we might see a rise in grenade launcher usage. With Wendigo being at the top of the list. Spike will give you damage, but better utility might be blinding. If you want to go all into damage, spike grenades, golden tricorn, adept big ones, and font of might will give you some incredible damage output. It’s a lot harder to upkeep on a grenade launcher, and especially when you’re dealing with a boss with limited fodder you might not be able to sustain golden tricorn 2x. Even with that set up you will have some great burst damage." Recommended MW - Reload.|tags:pve,mkb,controller
-Wendigo GL3,Chain Reaction,Frenzy,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Auto-Loading Holster,Frenzy,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Field Prep,Frenzy,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Chain Reaction,Golden Tricorn,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Auto-Loading Holster,Golden Tricorn,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Field Prep,Golden Tricorn,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Chain Reaction,Explosive Light,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Auto-Loading Holster,Explosive Light,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Field Prep,Explosive Light,Wendigo GL3,Quick Launch,Blinding Grenades
+Wendigo GL3,Chain Reaction,Frenzy,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Auto-Loading Holster,Frenzy,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Field Prep,Frenzy,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Chain Reaction,Golden Tricorn,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Auto-Loading Holster,Golden Tricorn,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Field Prep,Golden Tricorn,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Chain Reaction,Explosive Light,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Auto-Loading Holster,Explosive Light,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Field Prep,Explosive Light,Wendigo GL3,Quick Launch,Disorienting Grenades
 
 
 // Wendigo GL3
@@ -948,15 +1239,15 @@ Wendigo GL3,Impulse Amplifier,Explosive Light,Wendigo GL3,Quick Launch,Proximity
 
 // Wendigo GL3 (Adept)
 //notes:pandapaxxy (PvE / M+KB / Controller): "Is the current meta open enough to allow Wendigo to flex its tired muscles? I think so. GLs aren’t oppressive in PvP but they offer better in between than a rocket or a machine gun. It can clear rooms quickly and do decent single target damage. With a linear fusion rifle nerf incoming we might see a rise in grenade launcher usage. With Wendigo being at the top of the list. Spike will give you damage, but better utility might be blinding. If you want to go all into damage, spike grenades, golden tricorn, adept big ones, and font of might will give you some incredible damage output. It’s a lot harder to upkeep on a grenade launcher, and especially when you’re dealing with a boss with limited fodder you might not be able to sustain golden tricorn 2x. Even with that set up you will have some great burst damage." Recommended MW - Reload.|tags:pve,mkb,controller
-Wendigo GL3 (Adept),Chain Reaction,Frenzy,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Auto-Loading Holster,Frenzy,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Field Prep,Frenzy,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Chain Reaction,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Auto-Loading Holster,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Field Prep,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Chain Reaction,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Auto-Loading Holster,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Field Prep,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
+Wendigo GL3 (Adept),Chain Reaction,Frenzy,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Auto-Loading Holster,Frenzy,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Field Prep,Frenzy,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Chain Reaction,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Auto-Loading Holster,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Field Prep,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Chain Reaction,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Auto-Loading Holster,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Field Prep,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
 
 
 // Wendigo GL3 (Adept)
@@ -1203,15 +1494,15 @@ Hung Jury SR4 (Adept),Surplus,Firefly,Hung Jury SR4 (Adept),Polygonal Rifling,St
 
 // Wendigo GL3
 //notes:pandapaxxy (PvE / M+KB / Controller): "Is the current meta open enough to allow Wendigo to flex its tired muscles? I think so. GLs aren’t oppressive in PvP but they offer better in between than a rocket or a machine gun. It can clear rooms quickly and do decent single target damage. With a linear fusion rifle nerf incoming we might see a rise in grenade launcher usage. With Wendigo being at the top of the list. Spike will give you damage, but better utility might be blinding. If you want to go all into damage, spike grenades, golden tricorn, adept big ones, and font of might will give you some incredible damage output. It’s a lot harder to upkeep on a grenade launcher, and especially when you’re dealing with a boss with limited fodder you might not be able to sustain golden tricorn 2x. Even with that set up you will have some great burst damage." Recommended MW - Reload.|tags:pve,mkb,controller
-Wendigo GL3,Chain Reaction,Frenzy,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Auto-Loading Holster,Frenzy,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Field Prep,Frenzy,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Chain Reaction,Golden Tricorn,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Auto-Loading Holster,Golden Tricorn,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Field Prep,Golden Tricorn,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Chain Reaction,Explosive Light,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Auto-Loading Holster,Explosive Light,Wendigo GL3,Quick Launch,Blinding Grenades
-Wendigo GL3,Field Prep,Explosive Light,Wendigo GL3,Quick Launch,Blinding Grenades
+Wendigo GL3,Chain Reaction,Frenzy,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Auto-Loading Holster,Frenzy,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Field Prep,Frenzy,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Chain Reaction,Golden Tricorn,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Auto-Loading Holster,Golden Tricorn,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Field Prep,Golden Tricorn,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Chain Reaction,Explosive Light,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Auto-Loading Holster,Explosive Light,Wendigo GL3,Quick Launch,Disorienting Grenades
+Wendigo GL3,Field Prep,Explosive Light,Wendigo GL3,Quick Launch,Disorienting Grenades
 
 
 // Wendigo GL3
@@ -1222,15 +1513,15 @@ Wendigo GL3,Impulse Amplifier,Explosive Light,Wendigo GL3,Quick Launch,Proximity
 
 // Wendigo GL3 (Adept)
 //notes:pandapaxxy (PvE / M+KB / Controller): "Is the current meta open enough to allow Wendigo to flex its tired muscles? I think so. GLs aren’t oppressive in PvP but they offer better in between than a rocket or a machine gun. It can clear rooms quickly and do decent single target damage. With a linear fusion rifle nerf incoming we might see a rise in grenade launcher usage. With Wendigo being at the top of the list. Spike will give you damage, but better utility might be blinding. If you want to go all into damage, spike grenades, golden tricorn, adept big ones, and font of might will give you some incredible damage output. It’s a lot harder to upkeep on a grenade launcher, and especially when you’re dealing with a boss with limited fodder you might not be able to sustain golden tricorn 2x. Even with that set up you will have some great burst damage." Recommended MW - Reload.|tags:pve,mkb,controller
-Wendigo GL3 (Adept),Chain Reaction,Frenzy,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Auto-Loading Holster,Frenzy,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Field Prep,Frenzy,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Chain Reaction,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Auto-Loading Holster,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Field Prep,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Chain Reaction,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Auto-Loading Holster,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
-Wendigo GL3 (Adept),Field Prep,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Blinding Grenades
+Wendigo GL3 (Adept),Chain Reaction,Frenzy,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Auto-Loading Holster,Frenzy,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Field Prep,Frenzy,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Chain Reaction,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Auto-Loading Holster,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Field Prep,Golden Tricorn,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Chain Reaction,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Auto-Loading Holster,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
+Wendigo GL3 (Adept),Field Prep,Explosive Light,Wendigo GL3 (Adept),Quick Launch,Disorienting Grenades
 
 
 // Wendigo GL3 (Adept)
@@ -2356,9 +2647,9 @@ D.F.A. (Adept),Perpetual Motion,Rampage,D.F.A. (Adept),Fluted Barrel,Steady Roun
 
 // Lingering Dread - [YeezyGT's S18]  (god-pve)
 //notes: [YeezyGT's S18] [MW: Handling] "The cooler Pardon Our Dust. Aesthetics win out, and it has the holy Blinding or Spike / ALH combo. Demolitionist, Chill Clip, and even Danger Zone which has some great synergy with Blinding Grenades." tags:god-pve|tags:god-pve
-Lingering Dread,Auto-Loading Holster,Demolitionist,Lingering Dread,Quick Launch,Blinding Grenades,Bitterspite
-Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Quick Launch,Blinding Grenades,Bitterspite
-Lingering Dread,Auto-Loading Holster,Danger Zone,Lingering Dread,Quick Launch,Blinding Grenades,Bitterspite
+Lingering Dread,Auto-Loading Holster,Demolitionist,Lingering Dread,Quick Launch,Disorienting Grenades,Bitterspite
+Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Quick Launch,Disorienting Grenades,Bitterspite
+Lingering Dread,Auto-Loading Holster,Danger Zone,Lingering Dread,Quick Launch,Disorienting Grenades,Bitterspite
 
 
 // Ammit AR2 - [YeezyGT's S18]  (pve)
@@ -3187,14 +3478,14 @@ description:Newly reprised weapons dropping from Season of Plunder Nightfalls
 // The Militia's Birthright (PvE first-choice roll)
 // Quick Launch, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
 //notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Quick Launch delivers both. Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
-The Militia's Birthright,Quickdraw,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Lead from Gold,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Blinding Grenades
+The Militia's Birthright,Quickdraw,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Lead from Gold,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Disorienting Grenades
 
 // The Militia's Birthright (PvE backup roll)
 // Smart Drift Control, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
 //notes:Inspired by DMB PvE Podcast 34. PvE backup roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
-The Militia's Birthright,Quickdraw,Auto-Loading Holster,The Militia's Birthright,Smart Drift Control,Blinding Grenades
-The Militia's Birthright,Lead from Gold,Auto-Loading Holster,The Militia's Birthright,Smart Drift Control,Blinding Grenades
+The Militia's Birthright,Quickdraw,Auto-Loading Holster,The Militia's Birthright,Smart Drift Control,Disorienting Grenades
+The Militia's Birthright,Lead from Gold,Auto-Loading Holster,The Militia's Birthright,Smart Drift Control,Disorienting Grenades
 
 // The Militia's Birthright (PvE first-choice roll)
 // Smart Drift Control, Spike Grenades, (Slideways, Ambitious Assassin), (Frenzy, One For All)
@@ -3215,14 +3506,14 @@ The Militia's Birthright,Lead from Gold,One for All,The Militia's Birthright,Sma
 // The Militia's Birthright (Adept) (PvE first-choice roll)
 // Quick Launch, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
 //notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Quick Launch delivers both. Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
-The Militia's Birthright (Adept),Quickdraw,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
-The Militia's Birthright (Adept),Lead from Gold,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
+The Militia's Birthright (Adept),Quickdraw,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
+The Militia's Birthright (Adept),Lead from Gold,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
 
 // The Militia's Birthright (Adept) (PvE backup roll)
 // Smart Drift Control, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
 //notes:Inspired by DMB PvE Podcast 34. PvE backup roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
-The Militia's Birthright (Adept),Quickdraw,Auto-Loading Holster,The Militia's Birthright (Adept),Smart Drift Control,Blinding Grenades
-The Militia's Birthright (Adept),Lead from Gold,Auto-Loading Holster,The Militia's Birthright (Adept),Smart Drift Control,Blinding Grenades
+The Militia's Birthright (Adept),Quickdraw,Auto-Loading Holster,The Militia's Birthright (Adept),Smart Drift Control,Disorienting Grenades
+The Militia's Birthright (Adept),Lead from Gold,Auto-Loading Holster,The Militia's Birthright (Adept),Smart Drift Control,Disorienting Grenades
 
 // The Militia's Birthright (Adept) (PvE first-choice roll)
 // Smart Drift Control, Spike Grenades, (Slideways, Ambitious Assassin), (Frenzy, One For All)
@@ -4604,12 +4895,12 @@ The Inquisitor (Adept),Steady Hands,Adrenaline Junkie,The Inquisitor (Adept),Flu
 
 // The Militia's Birthright
 //notes:pandapaxxy (PvE Controller \ M+KB): Recommended MW: Reload “I am so very glad Militia's Birthright is back. Mostly for my friend u/The_SpellJammer. Militia's Birthright has not really seen too many changes from its former self. Ambitious and auto-loading are funny together, but unfortunately do not proc one another. Lead from gold is another fantastic perk when paired with a full lead from gold build. Frenzy is the top choice for the final column. Having two grenades with the 15% damage increase, 50 handling, and the most important part being the 50 reload. The reload alone will max out your reload stat making it easier to reload into ambitious assassin.“ (Year 5 S18: Season of Plunder Kinetic Grenade Launcher Special Ammo)|tags:PvE, Controller, M+KB
-The Militia's Birthright,Ambitious Assassin,Frenzy,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Lead from Gold,Frenzy,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Ambitious Assassin,Multikill Clip,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Lead from Gold,Multikill Clip,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Ambitious Assassin,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Lead from Gold,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Blinding Grenades
+The Militia's Birthright,Ambitious Assassin,Frenzy,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Lead from Gold,Frenzy,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Ambitious Assassin,Multikill Clip,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Lead from Gold,Multikill Clip,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Ambitious Assassin,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Lead from Gold,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Disorienting Grenades
 
 
 // The Militia's Birthright
@@ -4630,12 +4921,12 @@ The Militia's Birthright,Steady Hands,Swashbuckler,The Militia's Birthright,Quic
 
 // The Militia's Birthright (Adept)
 //notes:pandapaxxy (PvE Controller \ M+KB): Recommended MW: Reload “I am so very glad Militia's Birthright is back. Mostly for my friend u/The_SpellJammer. Militia's Birthright has not really seen too many changes from its former self. Ambitious and auto-loading are funny together, but unfortunately do not proc one another. Lead from gold is another fantastic perk when paired with a full lead from gold build. Frenzy is the top choice for the final column. Having two grenades with the 15% damage increase, 50 handling, and the most important part being the 50 reload. The reload alone will max out your reload stat making it easier to reload into ambitious assassin.“ (Year 5 S18: Season of Plunder Kinetic Grenade Launcher Special Ammo)|tags:PvE, Controller, M+KB
-The Militia's Birthright (Adept),Ambitious Assassin,Frenzy,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
-The Militia's Birthright (Adept),Lead from Gold,Frenzy,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
-The Militia's Birthright (Adept),Ambitious Assassin,Multikill Clip,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
-The Militia's Birthright (Adept),Lead from Gold,Multikill Clip,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
-The Militia's Birthright (Adept),Ambitious Assassin,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
-The Militia's Birthright (Adept),Lead from Gold,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Blinding Grenades
+The Militia's Birthright (Adept),Ambitious Assassin,Frenzy,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
+The Militia's Birthright (Adept),Lead from Gold,Frenzy,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
+The Militia's Birthright (Adept),Ambitious Assassin,Multikill Clip,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
+The Militia's Birthright (Adept),Lead from Gold,Multikill Clip,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
+The Militia's Birthright (Adept),Ambitious Assassin,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
+The Militia's Birthright (Adept),Lead from Gold,Auto-Loading Holster,The Militia's Birthright (Adept),Quick Launch,Disorienting Grenades
 
 
 // The Militia's Birthright (Adept)
@@ -5436,7 +5727,7 @@ Wastelander M5,Subsistence,Adagio,Wastelander M5,Corkscrew Rifling,Tactical Mag
 // Pardon Our Dust (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control), Blinding Grenades, Auto-Loading Holster, Danger Zone
 //notes:Inspired by DMB PvE Podcast 26. PvE first-choice roll for end-game content. Another opportunity to get a kinetic Blinding Grenade Launcher, if you haven't already - an essential tool in any end-game toolbox. You'll be swapping back and forth, so go for a handling barrel. Obviously Blinding Grenades in the mag, and then Auto-Loading Holster to reload while you're mopping up your blinded enemies with your Energy weapon. There's not that much in the second column of traits, but Danger Zone give you additional damage options when you're in CQC. Recommended MW: Handling, with a Quick Access Sling mod.|tags: pve, pve-god, pve-endgame, pve-minor, pve-major, controller, mkb
-Pardon Our Dust,Auto-Loading Holster,Danger Zone,Pardon Our Dust,Quick Launch,Blinding Grenades
+Pardon Our Dust,Auto-Loading Holster,Danger Zone,Pardon Our Dust,Quick Launch,Disorienting Grenades
 
 // Pardon Our Dust (PvE first-choice roll)
 // (Hard Launch, Quick Launch, Smart Drift Control, Linear Compensator), Spike Grenades, (Ambitious Assassin, Auto-Loading Holster), Vorpal Weapon
@@ -5536,8 +5827,8 @@ Wastelander M5,Pugilist,Trench Barrel,Wastelander M5,Corkscrew Rifling,Tactical 
 // Pardon Our Dust (PvE backup roll)
 // (Quick Launch, Smart Drift Control), Blinding Grenades, Auto-Loading Holster, (Demolitionist, Pugilist)
 //notes:Inspired by DMB PvE Podcast 30. PvE backup roll for end-game content. Another opportunity to get a kinetic Blinding Grenade Launcher, if you haven't already - an essential tool in any end-game toolbox. Unfortunately, Danger Zone has been lost in its re-issued format, so there's no complementary trait in the last column. You'll be swapping back and forth, so go for a handling barrel. Obviously Blinding Grenades in the mag, and then Auto-Loading Holster to reload while you're mopping up your blinded enemies with your Energy weapon. As there's not that much in the second column of traits, but if you do manage to catch an add or two, you might as well try to get some ability energy out of it. Recommended MW: Handling, with a Quick Access Sling mod.|tags: PvE, PvE-God, PvE-MinorSpec, PvE-Boss, PvE-MajorSpec, PvE-Endgame, Controller, MKB
-Pardon Our Dust,Auto-Loading Holster,Demolitionist,Pardon Our Dust,Quick Launch,Blinding Grenades
-Pardon Our Dust,Auto-Loading Holster,Pugilist,Pardon Our Dust,Quick Launch,Blinding Grenades
+Pardon Our Dust,Auto-Loading Holster,Demolitionist,Pardon Our Dust,Quick Launch,Disorienting Grenades
+Pardon Our Dust,Auto-Loading Holster,Pugilist,Pardon Our Dust,Quick Launch,Disorienting Grenades
 
 // Pardon Our Dust (PvE first-choice roll)
 // (Quick Launch, Smart Drift Control, Linear Compensator), High-Velocity Rounds, (Ambitious Assassin, Auto-Loading Holster), Pugilist
@@ -5671,8 +5962,8 @@ Bump in the Night,Demolitionist,Frenzy,Bump in the Night,Quick Launch,Impact Cas
 
 // Lingering Dread - Lingering Dread (pve)
 //notes: Chevy's S17 Super Pog PVE List Handling MW tags:pve, M+KB
-Lingering Dread,Auto-Loading Holster,Demolitionist,Lingering Dread,Quick Launch,Blinding Grenades
-Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Quick Launch,Blinding Grenades
+Lingering Dread,Auto-Loading Holster,Demolitionist,Lingering Dread,Quick Launch,Disorienting Grenades
+Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Quick Launch,Disorienting Grenades
 
 
 // Lingering Dread - Lingering Dread (pve)
@@ -5837,9 +6128,9 @@ Pure Poetry,Fourth Time's the Charm,Swashbuckler,Pure Poetry,Corkscrew Rifling,H
 
 // The Militia's Birthright (PvE)
 //notes:Chevy's S18 Super Pog PVE List - MW Handling or Velocity tags:pve, M+KB
-The Militia's Birthright,Quickdraw,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Quickdraw,Frenzy,The Militia's Birthright,Quick Launch,Blinding Grenades
-The Militia's Birthright,Slideways,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Blinding Grenades
+The Militia's Birthright,Quickdraw,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Quickdraw,Frenzy,The Militia's Birthright,Quick Launch,Disorienting Grenades
+The Militia's Birthright,Slideways,Auto-Loading Holster,The Militia's Birthright,Quick Launch,Disorienting Grenades
 The Militia's Birthright,Slideways,Frenzy,The Militia's Birthright,Quick Launch,Spike Grenades
 
 // Mindbender's Ambition (PvE)
@@ -5937,8 +6228,8 @@ Planck's Stride,Grave Robber,Swashbuckler,Planck's Stride,Arrowhead Brake,Accuri
 
 // Pardon Our Dust (PvE)
 //notes:Chevy's S18 Super Pog PVE List - MW Velocity tags:pve, M+KB
-Pardon Our Dust,Auto-Loading Holster,Demolitionist,Pardon Our Dust,Hard Launch,Blinding Grenades
-Pardon Our Dust,Auto-Loading Holster,Vorpal Weapon,Pardon Our Dust,Hard Launch,Blinding Grenades
+Pardon Our Dust,Auto-Loading Holster,Demolitionist,Pardon Our Dust,Hard Launch,Disorienting Grenades
+Pardon Our Dust,Auto-Loading Holster,Vorpal Weapon,Pardon Our Dust,Hard Launch,Disorienting Grenades
 
 // Wastelander M5 (PvE)
 //notes:Chevy's S18 Super Pog PVE List - MW Handling tags:pve, M+KB
@@ -8097,7 +8388,7 @@ Lingering Dread,Auto-Loading Holster,Vorpal Weapon,Lingering Dread,Quick Launch,
 // Lingering Dread (PvE first choice roll)
 // Quick Launch, Blinding Grenades, Auto-Loading Holster, Chill Clip
 //notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for crowd control. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon, offering a unique combination of crowd control perks in Blinding Grenades and Chill Clip, so you're able to debuff everything from red bars to Ultras. Quick Launch is the best barrel perk, and Auto-Loading Holster lets you swap to another weapon to sort out whatever's blinded and showed in front of you. Recommended MW: Handling or Velocity, with a Quick Access Sling mod to help with weapon swapping.|tags:pve
-Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Quick Launch,Blinding Grenades
+Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Quick Launch,Disorienting Grenades
 
 // Lingering Dread (PvE backup roll)
 // Smart Drift Control, Spike Grenades, Ambitious Assassin, Vorpal Weapon
@@ -8112,7 +8403,7 @@ Lingering Dread,Auto-Loading Holster,Vorpal Weapon,Lingering Dread,Smart Drift C
 // Lingering Dread (PvE backup roll)
 // Smart Drift Control, Blinding Grenades, Auto-Loading Holster, Chill Clip
 //notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE backup roll for crowd control. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon, offering a unique combination of crowd control perks in Blinding Grenades and Chill Clip, so you're able to debuff everything from red bars to Ultras. Smart Drift Control helps a bit with handling and velocity, and Auto-Loading Holster lets you swap to another weapon to sort out whatever's blinded and showed in front of you. Recommended MW: Handling or Velocity, with a Quick Access Sling mod to help with weapon swapping.|tags:pve
-Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Smart Drift Control,Blinding Grenades
+Lingering Dread,Auto-Loading Holster,Chill Clip,Lingering Dread,Smart Drift Control,Disorienting Grenades
 
 // Stormchaser (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake), Enhanced Battery, Clown Cartridge, Firing Line
@@ -11569,9 +11860,9 @@ The Hothead (Adept),Demolitionist,Vorpal Weapon,The Hothead (Adept),Quick Launch
 
 // Truthteller - [YeezyGT's S16] (god-pve)
 //notes: [YeezyGT's S16] [MW: Velocity/Handling] "Truthteller remains a staple pick, with access to Blinding/Spike, Auto-Loading Holster, Disruption Break/Quickdraw/Demolitionist. Invest in Velocity where possible, or Handling if you intend to use it as a "panic button" with Blinding grenades." tags:god-pve
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
 
 
 // Archon's Thunder - [YeezyGT's S16] (pve)
@@ -11610,8 +11901,8 @@ Uzume RR4,Triple Tap,Vorpal Weapon,Uzume RR4,Hammer-Forged Rifling,Accurized Rou
 
 // Orewing's Maul - [YeezyGT's S16] (pve)
 //notes: [YeezyGT's S16] [MW: Velocity/Handling] "Best used as a Blinding GL given its strong in-slot competition with better kill-oriented GLs. Typically opt-into high Handling perks; (Quickdraw, Threat Detector) and Auto-Loading Holster to be able to fire off a blinding grenade mid-fight. It shouldn't be overlooked as an Auto-Loading Spike Grenade GL either, if you're lacking one that can roll with a damage perk." tags:pve
-Orewing's Maul,Quickdraw,Auto-Loading Holster,Orewing's Maul,Quick Launch,Blinding Grenades
-Orewing's Maul,Threat Detector,Auto-Loading Holster,Orewing's Maul,Quick Launch,Blinding Grenades
+Orewing's Maul,Quickdraw,Auto-Loading Holster,Orewing's Maul,Quick Launch,Disorienting Grenades
+Orewing's Maul,Threat Detector,Auto-Loading Holster,Orewing's Maul,Quick Launch,Disorienting Grenades
 
 
 // Hero of Ages - [YeezyGT's S16] (god-pve)
@@ -15504,9 +15795,9 @@ The Hothead (Adept),Demolitionist,Vorpal Weapon,The Hothead (Adept),Quick Launch
 
 // Truthteller - [YeezyGT's S16] (god-pve)
 //notes: [YeezyGT's S16] [MW: Velocity/Handling] "Truthteller remains a staple pick, with access to Blinding/Spike, Auto-Loading Holster, Disruption Break/Quickdraw/Demolitionist. Invest in Velocity where possible, or Handling if you intend to use it as a "panic button" with Blinding grenades." tags:god-pve
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
 
 
 // Archon's Thunder - [YeezyGT's S16] (pve)
@@ -15545,8 +15836,8 @@ Uzume RR4,Triple Tap,Vorpal Weapon,Uzume RR4,Hammer-Forged Rifling,Accurized Rou
 
 // Orewing's Maul - [YeezyGT's S16] (pve)
 //notes: [YeezyGT's S16] [MW: Velocity/Handling] "Best used as a Blinding GL given its strong in-slot competition with better kill-oriented GLs. Typically opt-into high Handling perks; (Quickdraw, Threat Detector) and Auto-Loading Holster to be able to fire off a blinding grenade mid-fight. It shouldn't be overlooked as an Auto-Loading Spike Grenade GL either, if you're lacking one that can roll with a damage perk." tags:pve
-Orewing's Maul,Quickdraw,Auto-Loading Holster,Orewing's Maul,Quick Launch,Blinding Grenades
-Orewing's Maul,Threat Detector,Auto-Loading Holster,Orewing's Maul,Quick Launch,Blinding Grenades
+Orewing's Maul,Quickdraw,Auto-Loading Holster,Orewing's Maul,Quick Launch,Disorienting Grenades
+Orewing's Maul,Threat Detector,Auto-Loading Holster,Orewing's Maul,Quick Launch,Disorienting Grenades
 
 
 // Hero of Ages - [YeezyGT's S16] (god-pve)
@@ -19467,10 +19758,10 @@ Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Hard Launch,Spike G
 
 // Ignition Code (PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 213. PvE first choice roll for add control. Recommended MW: Reload Speed.
-Ignition Code,Field Prep,Vorpal Weapon,Ignition Code,Hard Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Hard Launch,Blinding Grenades
-Ignition Code,Field Prep,Demolitionist,Ignition Code,Hard Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Hard Launch,Blinding Grenades
+Ignition Code,Field Prep,Vorpal Weapon,Ignition Code,Hard Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Hard Launch,Disorienting Grenades
+Ignition Code,Field Prep,Demolitionist,Ignition Code,Hard Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Hard Launch,Disorienting Grenades
 
 // Farewell (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 213. PvP first choice roll.
@@ -21640,7 +21931,7 @@ Exile's Curse (Adept),Pulse Monitor,Vorpal Weapon,Exile's Curse (Adept),Fluted B
 
 // Ignition Code - Ignition Code (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
+Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
 
 
 // Ignition Code - Ignition Code (controller,god-pvp)
@@ -21655,7 +21946,7 @@ Ignition Code,Slideshot,Demolitionist,Ignition Code,Volatile Launch,Proximity Gr
 
 // Ignition Code - Ignition Code (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
+Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
 
 
 // Ignition Code - Ignition Code (controller,god-pvp)
@@ -21670,18 +21961,18 @@ Ignition Code,Slideshot,Demolitionist,Ignition Code,Volatile Launch,Proximity Gr
 
 // Ignition Code - Ignition Code (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Slideshot,Demolitionist,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Slideshot,Frenzy,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Slideshot,One for All,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Frenzy,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,One for All,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,Demolitionist,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,Frenzy,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,One for All,Ignition Code,Quick Launch,Blinding Grenades
+Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Slideshot,Demolitionist,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Slideshot,Frenzy,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Slideshot,One for All,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Frenzy,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,One for All,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,Demolitionist,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,Frenzy,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,One for All,Ignition Code,Quick Launch,Disorienting Grenades
 
 
 // Ignition Code - Ignition Code (controller,pvp)
@@ -21702,18 +21993,18 @@ Ignition Code,Surplus,Vorpal Weapon,Ignition Code,Volatile Launch,Proximity Gren
 
 // Ignition Code - Ignition Code (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Slideshot,Demolitionist,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Slideshot,Frenzy,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Slideshot,One for All,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,Frenzy,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Ambitious Assassin,One for All,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,Vorpal Weapon,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,Demolitionist,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,Frenzy,Ignition Code,Quick Launch,Blinding Grenades
-Ignition Code,Field Prep,One for All,Ignition Code,Quick Launch,Blinding Grenades
+Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Slideshot,Demolitionist,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Slideshot,Frenzy,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Slideshot,One for All,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,Frenzy,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Ambitious Assassin,One for All,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,Vorpal Weapon,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,Demolitionist,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,Frenzy,Ignition Code,Quick Launch,Disorienting Grenades
+Ignition Code,Field Prep,One for All,Ignition Code,Quick Launch,Disorienting Grenades
 
 
 // Ignition Code - Ignition Code (controller,pvp)
@@ -27464,7 +27755,7 @@ Hezen Vengeance (Timelost),Quickdraw,Cluster Bomb,Hezen Vengeance (Timelost),Vol
 
 // Truthteller - Truthteller (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
 
 
 // Truthteller - Truthteller (controller,god-pvp)
@@ -27479,7 +27770,7 @@ Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Volatile Launch,Pr
 
 // Truthteller - Truthteller (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
 
 
 // Truthteller - Truthteller (controller,god-pvp)
@@ -27494,15 +27785,15 @@ Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Volatile Launch,Pr
 
 // Truthteller - Truthteller (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Field Prep,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Field Prep,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Field Prep,Swashbuckler,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Quick Launch,Blinding Grenades
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Field Prep,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Field Prep,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Field Prep,Swashbuckler,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Quick Launch,Disorienting Grenades
 
 
 // Truthteller - Truthteller (controller,pvp)
@@ -27521,15 +27812,15 @@ Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Volatile Launch,Proxim
 
 // Truthteller - Truthteller (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Field Prep,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Field Prep,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Field Prep,Swashbuckler,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Quick Launch,Blinding Grenades
-Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Quick Launch,Blinding Grenades
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Field Prep,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Field Prep,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Field Prep,Swashbuckler,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Quick Launch,Disorienting Grenades
+Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Quick Launch,Disorienting Grenades
 
 
 // Truthteller - Truthteller (controller,pvp)
@@ -28087,7 +28378,7 @@ Canis Major,Killing Wind,Unrelenting,Canis Major,Volatile Launch,Proximity Grena
 
 // Orewing's Maul - Orewing's Maul (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Blinding Grenades
+Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Disorienting Grenades
 
 
 // Orewing's Maul - Orewing's Maul (controller,god-pvp)
@@ -28102,7 +28393,7 @@ Orewing's Maul,Pulse Monitor,Demolitionist,Orewing's Maul,Volatile Launch,Proxim
 
 // Orewing's Maul - Orewing's Maul (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Blinding Grenades
+Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Disorienting Grenades
 
 
 // Orewing's Maul - Orewing's Maul (controller,god-pvp)
@@ -28117,8 +28408,8 @@ Orewing's Maul,Pulse Monitor,Demolitionist,Orewing's Maul,Volatile Launch,Proxim
 
 // Orewing's Maul - Orewing's Maul (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Blinding Grenades
-Orewing's Maul,Field Prep,Auto-Loading Holster,Orewing's Maul,Quick Launch,Blinding Grenades
+Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Disorienting Grenades
+Orewing's Maul,Field Prep,Auto-Loading Holster,Orewing's Maul,Quick Launch,Disorienting Grenades
 
 
 // Orewing's Maul - Orewing's Maul (controller,pvp)
@@ -28139,8 +28430,8 @@ Orewing's Maul,Threat Detector,Auto-Loading Holster,Orewing's Maul,Volatile Laun
 
 // Orewing's Maul - Orewing's Maul (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Blinding Grenades
-Orewing's Maul,Field Prep,Auto-Loading Holster,Orewing's Maul,Quick Launch,Blinding Grenades
+Orewing's Maul,Field Prep,Demolitionist,Orewing's Maul,Quick Launch,Disorienting Grenades
+Orewing's Maul,Field Prep,Auto-Loading Holster,Orewing's Maul,Quick Launch,Disorienting Grenades
 
 
 // Orewing's Maul - Orewing's Maul (controller,pvp)
@@ -36125,7 +36416,7 @@ The Hothead,Quickdraw,Vorpal Weapon,The Hothead,Volatile Launch,Black Powder
 
 // Empty Vessel - Empty Vessel (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
+Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
 
 
 // Empty Vessel - Empty Vessel (controller,god-pvp)
@@ -36140,7 +36431,7 @@ Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Volatile Launch,Pro
 
 // Empty Vessel - Empty Vessel (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
+Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
 
 
 // Empty Vessel - Empty Vessel (controller,god-pvp)
@@ -36155,15 +36446,15 @@ Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Volatile Launch,Pro
 
 // Empty Vessel - Empty Vessel (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Auto-Loading Holster,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Ambitious Assassin,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Ambitious Assassin,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Ambitious Assassin,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Field Prep,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Field Prep,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Field Prep,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades
+Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Auto-Loading Holster,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Ambitious Assassin,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Ambitious Assassin,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Ambitious Assassin,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Field Prep,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Field Prep,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Field Prep,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades
 
 
 // Empty Vessel - Empty Vessel (controller,pvp)
@@ -36188,15 +36479,15 @@ Empty Vessel,Surplus,Vorpal Weapon,Empty Vessel,Volatile Launch,Proximity Grenad
 
 // Empty Vessel - Empty Vessel (controller,pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Auto-Loading Holster,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Ambitious Assassin,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Ambitious Assassin,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Ambitious Assassin,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Field Prep,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Field Prep,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades
-Empty Vessel,Field Prep,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades
+Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Auto-Loading Holster,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Ambitious Assassin,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Ambitious Assassin,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Ambitious Assassin,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Field Prep,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Field Prep,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades
+Empty Vessel,Field Prep,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades
 
 
 // Empty Vessel - Empty Vessel (controller,pvp)
@@ -37085,18 +37376,18 @@ PLUG ONE.1,Feeding Frenzy,Reservoir Burst,PLUG ONE.1,Extended Barrel,Liquid Coil
 
 
 
-Empty Vessel,Auto-Loading Holster,One for All,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Ambitious Assassin,One for All,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Threat Detector,One for All,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Ambitious Assassin,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Threat Detector,Vorpal Weapon,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Ambitious Assassin,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Threat Detector,Demolitionist,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Auto-Loading Holster,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Ambitious Assassin,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-Empty Vessel,Threat Detector,Disruption Break,Empty Vessel,Quick Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Auto-Loading Holster,One for All,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Ambitious Assassin,One for All,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Threat Detector,One for All,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Auto-Loading Holster,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Ambitious Assassin,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Threat Detector,Vorpal Weapon,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Auto-Loading Holster,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Ambitious Assassin,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Threat Detector,Demolitionist,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Auto-Loading Holster,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Ambitious Assassin,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+Empty Vessel,Threat Detector,Disruption Break,Empty Vessel,Quick Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
 
 
 
@@ -37182,14 +37473,14 @@ Chroma Rush,Subsistence,Wellspring,Chroma Rush,Hammer-Forged Rifling,Tactical Ma
 
 
 
-Ignition Code,Slideshot,Demolitionist,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Slideshot,One for All,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Ambitious Assassin,One for All,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Slideshot,Frenzy,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Ambitious Assassin,Frenzy,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
-Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Hard Launch,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Slideshot,Demolitionist,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Ambitious Assassin,Demolitionist,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Slideshot,One for All,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Ambitious Assassin,One for All,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Slideshot,Frenzy,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Ambitious Assassin,Frenzy,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Slideshot,Vorpal Weapon,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
+Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Hard Launch,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity/Handling
 
 
 
@@ -37487,7 +37778,7 @@ Ignition Code,Ambitious Assassin,Vorpal Weapon,Ignition Code,Volatile Launch,Spi
 
 // Ignition Code
 //notes:jarv (PvP): A-Tier (Strong). Recommended MW: Blast Radius.|tags:pvp
-Ignition Code,Slideshot,Frenzy,Ignition Code,Confined Launch,Blinding Grenades
+Ignition Code,Slideshot,Frenzy,Ignition Code,Confined Launch,Disorienting Grenades
 
 
 // Shayura's Wrath
@@ -38230,21 +38521,21 @@ IKELOS_SR_v1.0.2,Triple Tap,High-Impact Reserves,IKELOS_SR_v1.0.2,Fluted Barrel,
 
 
 
-Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Field Prep,Demolitionist,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Field Prep,Disruption Break,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Auto-Loading Holster,Multikill Clip,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Field Prep,Multikill Clip,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Feeding Frenzy,Multikill Clip,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Field Prep,Swashbuckler,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Field Prep,Quickdraw,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
-Truthteller,Feeding Frenzy,Quickdraw,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Field Prep,Demolitionist,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Field Prep,Disruption Break,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Auto-Loading Holster,Multikill Clip,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Field Prep,Multikill Clip,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Feeding Frenzy,Multikill Clip,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Field Prep,Swashbuckler,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Field Prep,Quickdraw,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
+Truthteller,Feeding Frenzy,Quickdraw,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Velocity
 
 
 
@@ -38800,21 +39091,21 @@ IKELOS_SR_v1.0.2,Triple Tap,High-Impact Reserves,IKELOS_SR_v1.0.2,Fluted Barrel,
 
 
 
-Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Field Prep,Demolitionist,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Field Prep,Disruption Break,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Auto-Loading Holster,Multikill Clip,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Field Prep,Multikill Clip,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Feeding Frenzy,Multikill Clip,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Field Prep,Swashbuckler,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Field Prep,Quickdraw,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
-Truthteller,Feeding Frenzy,Quickdraw,Truthteller,Linear Compensator,Blinding Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Auto-Loading Holster,Demolitionist,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Field Prep,Demolitionist,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Feeding Frenzy,Demolitionist,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Auto-Loading Holster,Disruption Break,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Field Prep,Disruption Break,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Feeding Frenzy,Disruption Break,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Auto-Loading Holster,Multikill Clip,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Field Prep,Multikill Clip,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Feeding Frenzy,Multikill Clip,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Auto-Loading Holster,Swashbuckler,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Field Prep,Swashbuckler,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Feeding Frenzy,Swashbuckler,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Auto-Loading Holster,Quickdraw,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Field Prep,Quickdraw,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+Truthteller,Feeding Frenzy,Quickdraw,Truthteller,Linear Compensator,Disorienting Grenades#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
 
 
 
